@@ -1,0 +1,310 @@
+[
+  {
+    "stopName": "Vasna",
+    "stopCode": 1286,
+    "stationCode": 3019,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.547915",
+      "stopLatitude": "23.002231"
+    },
+    "RouteCodes": null,
+    "Sequence": 22,
+    "routeFlow": "LINESTRING (72.57156 23.05509, 72.57161 23.05548, 72.571599 23.055822, 72.571612 23.055854, 72.57178 23.056014, 72.571982 23.056024, 72.572093 23.056025, 72.572156 23.056021, 72.572257 23.056014, 72.57236 23.055985, 72.57263 23.05594, 72.573003 23.055828, 72.573194 23.055785, 72.573576 23.055657, 72.573847 23.05554, 72.57476 23.055185, 72.575307 23.054937, 72.575542 23.054826, 72.575577 23.054788, 72.575719 23.054725, 72.575784 23.054694, 72.576004 23.054638, 72.576276 23.054514, 72.57614 23.05433, 72.57614 23.05433, 72.57506 23.0525, 72.57479 23.05202, 72.57448 23.05136, 72.57405 23.05016, 72.57386 23.04958, 72.57371 23.04906, 72.57345 23.04812, 72.57345 23.04812, 72.57335 23.04766, 72.57328 23.04701, 72.57316 23.04638, 72.57306 23.04604, 72.57282 23.04539, 72.57249 23.04442, 72.57197 23.04271, 72.57197 23.04271, 72.57191 23.04252, 72.57183 23.04214, 72.57172 23.0417, 72.57171 23.04156, 72.57168 23.04102, 72.57165 23.04024, 72.57159 23.03954, 72.57142 23.03821, 72.57141 23.03783, 72.57139 23.03717, 72.57143 23.03627, 72.57153 23.03458, 72.57157 23.03401, 72.57157 23.03401, 72.5716 23.03281, 72.57171 23.03149, 72.57175 23.03111, 72.57184 23.03073, 72.57186 23.03067, 72.57186 23.03067, 72.572 23.03011, 72.57228 23.02925, 72.57278 23.02802, 72.57293 23.02752, 72.57303 23.02704, 72.57319 23.02595, 72.57327 23.02551, 72.57327 23.02551, 72.57328 23.02531, 72.57339 23.02452, 72.57351 23.02384, 72.57353 23.02364, 72.57363 23.02289, 72.57365 23.0226, 72.57366 23.02236, 72.57366 23.02234, 72.57366 23.02234, 72.57362 23.02188, 72.57364 23.02186, 72.57365 23.02182, 72.57363 23.02178, 72.5736 23.02176, 72.57347 23.02091, 72.57334 23.02024, 72.57315 23.01913, 72.5731 23.01877, 72.5731 23.01877, 72.57306 23.01779, 72.57309 23.01643, 72.57309 23.01643, 72.57307 23.01607, 72.57306 23.01561, 72.57295 23.01482, 72.57298 23.01475, 72.57276 23.01379, 72.5727 23.01349, 72.57245 23.01225, 72.57242 23.01186, 72.57242 23.01186, 72.57224 23.01123, 72.57196 23.01073, 72.57148 23.00982, 72.57096 23.0088, 72.57052 23.008, 72.57052 23.008, 72.56953 23.00618, 72.56928 23.00576, 72.56929 23.00568, 72.56919 23.00548, 72.56872 23.00445, 72.5682 23.00335, 72.56798 23.00302, 72.56798 23.00302, 72.56774 23.0027, 72.56726 23.00213, 72.56661 23.00139, 72.56572 23.00047, 72.56539 23.00009, 72.56494 22.99962, 72.56405 22.99868, 72.56339 22.99805, 72.56292 22.99766, 72.56271 22.99748, 72.56271 22.99748, 72.56269 22.99745, 72.56263 22.99746, 72.5626 22.99743, 72.56254 22.99738, 72.56249 22.99736, 72.56238 22.99737, 72.56223 22.99747, 72.56207 22.99765, 72.56161 22.99805, 72.56136 22.99822, 72.56115 22.99834, 72.56072 22.99853, 72.56025 22.99872, 72.56001 22.9988, 72.55999 22.99882, 72.55997 22.99889, 72.55955 22.99901, 72.55955 22.99901, 72.55904 22.99921, 72.55858 22.99939, 72.55825 22.99957, 72.55755 23.00003, 72.55753 23.00004, 72.55742 22.99995, 72.55692 22.99969, 72.55596 22.99921, 72.55547 22.99898, 72.55547 22.99898, 72.55462 22.99857, 72.55382 22.99815, 72.55382 22.99815, 72.5534 22.99793, 72.55317 22.99786, 72.55281 22.99784, 72.55131 22.99785, 72.55111 22.99823, 72.55111 22.99823, 72.55046 22.99951, 72.55021 22.99987, 72.55008 23.00009, 72.54998 23.00037, 72.54957 23.00021, 72.54957 23.00021, 72.54738 22.99938, 72.54721 22.99993, 72.54721 22.99993, 72.54713 23.00018, 72.54697 23.00053, 72.54695 23.00056, 72.54692 23.0006, 72.54678 23.0007, 72.54689 23.00088, 72.54705 23.00122, 72.54713 23.00132, 72.54743 23.00172, 72.54761 23.00183, 72.54798 23.0019)"
+  },
+  {
+    "stopName": "Vadaj",
+    "stopCode": 2033,
+    "stationCode": 2978,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.571524",
+      "stopLatitude": "23.055089"
+    },
+    "RouteCodes": null,
+    "Sequence": 1,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Chandranagar",
+    "stopCode": 2068,
+    "stationCode": 1368,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.557544",
+      "stopLatitude": "23.000023"
+    },
+    "RouteCodes": null,
+    "Sequence": 16,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Narayannagar Society",
+    "stopCode": 2069,
+    "stationCode": 2163,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.555493",
+      "stopLatitude": "22.998941"
+    },
+    "RouteCodes": null,
+    "Sequence": 17,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Narayannagar",
+    "stopCode": 2070,
+    "stationCode": 2162,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.553815",
+      "stopLatitude": "22.998156"
+    },
+    "RouteCodes": null,
+    "Sequence": 18,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Ekta Tower",
+    "stopCode": 2071,
+    "stationCode": 1484,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.551085",
+      "stopLatitude": "22.998219"
+    },
+    "RouteCodes": null,
+    "Sequence": 19,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Amar Flats",
+    "stopCode": 2072,
+    "stationCode": 1098,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.549575",
+      "stopLatitude": "23.00021"
+    },
+    "RouteCodes": null,
+    "Sequence": 20,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Sabar Flats",
+    "stopCode": 2956,
+    "stationCode": 2529,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.559538",
+      "stopLatitude": "22.998973"
+    },
+    "RouteCodes": null,
+    "Sequence": 15,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Telephone Exchange (Vasna)",
+    "stopCode": 4174,
+    "stationCode": 2929,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.54721",
+      "stopLatitude": "22.999928"
+    },
+    "RouteCodes": null,
+    "Sequence": 21,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Ambedkar Bridge",
+    "stopCode": 6446,
+    "stationCode": 7163,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.562707",
+      "stopLatitude": "22.997486"
+    },
+    "RouteCodes": null,
+    "Sequence": 14,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Rajnagar Society Cross",
+    "stopCode": 6448,
+    "stationCode": 7164,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.567984",
+      "stopLatitude": "23.003016"
+    },
+    "RouteCodes": null,
+    "Sequence": 13,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Sports Park",
+    "stopCode": 6450,
+    "stationCode": 7165,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.570522",
+      "stopLatitude": "23.007997"
+    },
+    "RouteCodes": null,
+    "Sequence": 12,
+    "routeFlow": null
+  },
+  {
+    "stopName": "N.I.D.Cross Road",
+    "stopCode": 6452,
+    "stationCode": 7166,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.572411",
+      "stopLatitude": "23.011857"
+    },
+    "RouteCodes": null,
+    "Sequence": 11,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Atal Bridge",
+    "stopCode": 6454,
+    "stationCode": 7167,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.573097",
+      "stopLatitude": "23.016431"
+    },
+    "RouteCodes": null,
+    "Sequence": 10,
+    "routeFlow": null
+  },
+  {
+    "stopName": "S.V.P. Hospital",
+    "stopCode": 6456,
+    "stationCode": 7168,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.573085",
+      "stopLatitude": "23.018771"
+    },
+    "RouteCodes": null,
+    "Sequence": 9,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Flower Park(Hariharanand Ashram)",
+    "stopCode": 6458,
+    "stationCode": 7169,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.573671",
+      "stopLatitude": "23.022341"
+    },
+    "RouteCodes": null,
+    "Sequence": 8,
+    "routeFlow": null
+  },
+  {
+    "stopName": "B.J.Park",
+    "stopCode": 6460,
+    "stationCode": 7170,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.573287",
+      "stopLatitude": "23.025505"
+    },
+    "RouteCodes": null,
+    "Sequence": 7,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Vallabhsadan Cross road",
+    "stopCode": 6462,
+    "stationCode": 7171,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.57185",
+      "stopLatitude": "23.03067"
+    },
+    "RouteCodes": null,
+    "Sequence": 6,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Sel Tax Bhavan",
+    "stopCode": 6464,
+    "stationCode": 7172,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.5716",
+      "stopLatitude": "23.034013"
+    },
+    "RouteCodes": null,
+    "Sequence": 5,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Riverfront Park(Usmanpura)",
+    "stopCode": 6466,
+    "stationCode": 7173,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.57195",
+      "stopLatitude": "23.042713"
+    },
+    "RouteCodes": null,
+    "Sequence": 4,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Vadaj Muktidham(Chandrabhaga)",
+    "stopCode": 6468,
+    "stationCode": 7174,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.576133",
+      "stopLatitude": "23.054329"
+    },
+    "RouteCodes": null,
+    "Sequence": 2,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Usmanpura Gam",
+    "stopCode": 6470,
+    "stationCode": 7175,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.573453",
+      "stopLatitude": "23.048116"
+    },
+    "RouteCodes": null,
+    "Sequence": 3,
+    "routeFlow": null
+  }
+]

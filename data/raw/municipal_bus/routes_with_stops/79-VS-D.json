@@ -1,0 +1,310 @@
+[
+  {
+    "stopName": "Kalupur Overbridge",
+    "stopCode": 1736,
+    "stationCode": 1838,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.600856",
+      "stopLatitude": "23.033208"
+    },
+    "RouteCodes": null,
+    "Sequence": 3,
+    "routeFlow": "LINESTRING (72.59873 23.03129, 72.59906 23.03154, 72.59906 23.03154, 72.59924 23.0317, 72.59985 23.03235, 72.60017 23.03271, 72.60031 23.03283, 72.60052 23.03299, 72.60074 23.0331, 72.60084 23.03314, 72.60088 23.03315, 72.60102 23.0332, 72.60113 23.03322, 72.60192 23.03318, 72.60273 23.0331, 72.60303 23.03302, 72.60303 23.03303, 72.60304 23.03304, 72.60305 23.03304, 72.60307 23.03305, 72.60309 23.03305, 72.60313 23.03303, 72.60314 23.03299, 72.60311 23.03296, 72.6031 23.03295, 72.60343 23.03216, 72.60355 23.03195, 72.60371 23.03174, 72.60408 23.03135, 72.60425 23.03119, 72.60425 23.03119, 72.60429 23.03116, 72.60458 23.03106, 72.60477 23.03104, 72.60594 23.03057, 72.6068 23.03023, 72.6068 23.03023, 72.60727 23.02999, 72.6073 23.02996, 72.60753 23.02997, 72.60803 23.03019, 72.60845 23.03035, 72.60862 23.03039, 72.60922 23.03062, 72.60992 23.03091, 72.60992 23.03091, 72.61061 23.03123, 72.61109 23.03147, 72.61115 23.03148, 72.61128 23.03166, 72.61127 23.03166, 72.61126 23.03166, 72.61125 23.03166, 72.61122 23.03168, 72.6112 23.03169, 72.61118 23.03174, 72.6112 23.03179, 72.61124 23.03182, 72.61128 23.03183, 72.61128 23.03183, 72.61131 23.03183, 72.61132 23.03182, 72.61133 23.03182, 72.61182 23.03237, 72.6119 23.03244, 72.61286 23.03301, 72.61363 23.03341, 72.61387 23.03351, 72.61387 23.03352, 72.61388 23.03353, 72.61389 23.03355, 72.61391 23.03357, 72.61395 23.03358, 72.61401 23.03357, 72.61403 23.03355, 72.61405 23.03354, 72.61456 23.03382, 72.61456 23.03382, 72.61477 23.03395, 72.61532 23.03427, 72.61579 23.03452, 72.61621 23.03472, 72.61658 23.03485, 72.61689 23.03494, 72.61714 23.03497, 72.61747 23.03496, 72.61747 23.03496, 72.61772 23.03493, 72.61792 23.03494, 72.61792 23.03495, 72.61793 23.03496, 72.61795 23.03496, 72.61796 23.03496, 72.61797 23.03496, 72.61843 23.03535, 72.61843 23.03536, 72.61844 23.03537, 72.61846 23.03538, 72.61849 23.03538, 72.6185 23.03536, 72.61922 23.03512, 72.61925 23.03511, 72.62008 23.03484, 72.62037 23.03477, 72.62062 23.03477, 72.62106 23.03482, 72.62135 23.03488, 72.62165 23.03488, 72.62201 23.03485, 72.62217 23.03487, 72.62221 23.03483, 72.62222 23.03488, 72.62255 23.03488, 72.62328 23.03491, 72.62426 23.03498, 72.62574 23.03509, 72.62611 23.0351, 72.62611 23.0351, 72.6284 23.03511, 72.62949 23.03507, 72.62949 23.03507, 72.62976 23.03506, 72.62977 23.03507, 72.62977 23.03523, 72.62988 23.03577, 72.63004 23.03643, 72.6304 23.03794, 72.6304 23.03794, 72.63059 23.03862, 72.63058 23.03863, 72.63058 23.03865, 72.6306 23.03871, 72.63064 23.03874, 72.63069 23.03874, 72.63074 23.03871, 72.63075 23.0387, 72.63179 23.03868, 72.63257 23.03867, 72.63286 23.03869, 72.63389 23.03877, 72.63388 23.0388, 72.63556 23.03883, 72.63594 23.03888, 72.6364 23.03891, 72.63858 23.03903, 72.6389 23.03903, 72.63904 23.0391, 72.6392 23.03915, 72.6392 23.03915, 72.64039 23.03947, 72.6409 23.03963, 72.64108 23.03968, 72.64108 23.03968, 72.64175 23.03986, 72.64277 23.04016, 72.64294 23.0402, 72.64294 23.0402, 72.64365 23.04044, 72.64424 23.04063, 72.644681 23.040794, 72.644675 23.040791, 72.64474 23.04079, 72.64501 23.04086, 72.6456 23.04104, 72.64598 23.04121, 72.64633 23.04137, 72.64686 23.04152, 72.6474 23.04177, 72.6475 23.04181, 72.6475 23.04181, 72.64837 23.04223, 72.64884 23.04246, 72.64971 23.04296, 72.64974 23.04297, 72.65063 23.04348, 72.65145 23.04396, 72.65146 23.04411)"
+  },
+  {
+    "stopName": "Kalupur",
+    "stopCode": 2271,
+    "stationCode": 1836,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.59866",
+      "stopLatitude": "23.031238"
+    },
+    "RouteCodes": null,
+    "Sequence": 1,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Shrinagar Mills",
+    "stopCode": 2501,
+    "stationCode": 2751,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.604276",
+      "stopLatitude": "23.031221"
+    },
+    "RouteCodes": null,
+    "Sequence": 4,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Dr.Ambedkar Hall (Saraspur)",
+    "stopCode": 2502,
+    "stationCode": 1468,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.606785",
+      "stopLatitude": "23.030225"
+    },
+    "RouteCodes": null,
+    "Sequence": 5,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Saraspur Char Rasta",
+    "stopCode": 2503,
+    "stationCode": 2596,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.609891",
+      "stopLatitude": "23.030973"
+    },
+    "RouteCodes": null,
+    "Sequence": 6,
+    "routeFlow": null
+  },
+  {
+    "stopName": "India Colony",
+    "stopCode": 2514,
+    "stationCode": 1707,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.633885",
+      "stopLatitude": "23.038783"
+    },
+    "RouteCodes": null,
+    "Sequence": 15,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Nutan Mills",
+    "stopCode": 2831,
+    "stationCode": 2249,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.614556",
+      "stopLatitude": "23.03383"
+    },
+    "RouteCodes": null,
+    "Sequence": 8,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Bombay Housing Colony",
+    "stopCode": 2832,
+    "stationCode": 1318,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.6175",
+      "stopLatitude": "23.035031"
+    },
+    "RouteCodes": null,
+    "Sequence": 9,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Ambar Cinema",
+    "stopCode": 2833,
+    "stationCode": 1105,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.619226",
+      "stopLatitude": "23.035125"
+    },
+    "RouteCodes": null,
+    "Sequence": 10,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Bhid Bhanjan Hanuman",
+    "stopCode": 2834,
+    "stationCode": 1296,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.622175",
+      "stopLatitude": "23.034835"
+    },
+    "RouteCodes": null,
+    "Sequence": 11,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Bapunagar Ghanti (Patelwadi)",
+    "stopCode": 2835,
+    "stationCode": 1251,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.626111",
+      "stopLatitude": "23.035095"
+    },
+    "RouteCodes": null,
+    "Sequence": 12,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Bapunagar Char Rasta",
+    "stopCode": 2836,
+    "stationCode": 1249,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.629486",
+      "stopLatitude": "23.035063"
+    },
+    "RouteCodes": null,
+    "Sequence": 13,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Vijay Chowk (Samjuba Hospital)",
+    "stopCode": 2837,
+    "stationCode": 3043,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.630425",
+      "stopLatitude": "23.037936"
+    },
+    "RouteCodes": null,
+    "Sequence": 14,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Shardaben Hospital",
+    "stopCode": 3438,
+    "stationCode": 2708,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.611281",
+      "stopLatitude": "23.031841"
+    },
+    "RouteCodes": null,
+    "Sequence": 7,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Thakkarnagar Approach",
+    "stopCode": 3440,
+    "stationCode": 2935,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.639211",
+      "stopLatitude": "23.039126"
+    },
+    "RouteCodes": null,
+    "Sequence": 16,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Thakkarnagar Char Rasta",
+    "stopCode": 3441,
+    "stationCode": 2936,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.641075",
+      "stopLatitude": "23.039693"
+    },
+    "RouteCodes": null,
+    "Sequence": 17,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Thakkarnagar",
+    "stopCode": 3442,
+    "stationCode": 2934,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.642923",
+      "stopLatitude": "23.040243"
+    },
+    "RouteCodes": null,
+    "Sequence": 18,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Indrajit Tenament",
+    "stopCode": 3443,
+    "stationCode": 1717,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.644675",
+      "stopLatitude": "23.040818"
+    },
+    "RouteCodes": null,
+    "Sequence": 19,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Labharth Society",
+    "stopCode": 3444,
+    "stationCode": 1950,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.647495",
+      "stopLatitude": "23.041826"
+    },
+    "RouteCodes": null,
+    "Sequence": 20,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Ratanba Vidyalay",
+    "stopCode": 3445,
+    "stationCode": 2489,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.649721",
+      "stopLatitude": "23.042996"
+    },
+    "RouteCodes": null,
+    "Sequence": 21,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Badrinarayan Society",
+    "stopCode": 3446,
+    "stationCode": 1215,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.651466",
+      "stopLatitude": "23.044106"
+    },
+    "RouteCodes": null,
+    "Sequence": 22,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Kalupur Chokha Bazar",
+    "stopCode": 4125,
+    "stationCode": 1837,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.599022",
+      "stopLatitude": "23.031586"
+    },
+    "RouteCodes": null,
+    "Sequence": 2,
+    "routeFlow": null
+  }
+]

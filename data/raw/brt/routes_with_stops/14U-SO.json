@@ -1,0 +1,6 @@
+{
+  "Result": "Failed",
+  "Message": "There was a problem handling your request. Please contact support",
+  "ExStackTrace": "   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)\r\n   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)\r\n   at System.Threading.Tasks.Parallel.ForWorker[TLocal](Int32 fromInclusive, Int32 toExclusive, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Func`4 bodyWithLocal, Func`1 localInit, Action`1 localFinally)\r\n   at System.Threading.Tasks.Parallel.ForEachWorker[TSource,TLocal](IEnumerable`1 source, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)\r\n   at System.Threading.Tasks.Parallel.ForEach[TSource](IEnumerable`1 source, Action`1 body)\r\n   at DMS.Commutor.Amd.DataAccess.FareMatrixRepository.GetListOfstopsOnRoute(String routeCode)\r\n   at DMS.Commutor.Amd.Controllers.FareMatrixController.<>c__DisplayClass6_0.<StopsOnRoute>b__0()\r\n   at DMS.Commutor.Amd.Controllers.BaseController.GetHttpResponse(HttpRequestMessage request, Func`1 codeToExecute)",
+  "ExMessage": "One or more errors occurred."
+}

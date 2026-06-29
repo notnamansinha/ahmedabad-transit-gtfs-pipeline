@@ -1,0 +1,548 @@
+[
+  {
+    "stopName": "Lal Darwaja",
+    "stopCode": 1125,
+    "stationCode": 1961,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.578605",
+      "stopLatitude": "23.024376"
+    },
+    "RouteCodes": null,
+    "Sequence": 1,
+    "routeFlow": "LINESTRING (72.5786 23.02437, 72.5788 23.02436, 72.57904 23.02434, 72.57904 23.02503, 72.5796 23.02504, 72.57976 23.02504, 72.58002 23.02499, 72.5801 23.02491, 72.58033 23.02478, 72.58042 23.02472, 72.58051 23.02462, 72.58059 23.02439, 72.58049 23.02415, 72.58041 23.02401, 72.58031 23.02393, 72.57974 23.02367, 72.57949 23.02352, 72.57956 23.023, 72.57959 23.02218, 72.58023 23.02209, 72.58079 23.02199, 72.580795 23.022007, 72.58198 23.02181, 72.58305 23.02162, 72.58365 23.0215, 72.58365 23.0215, 72.5841 23.02141, 72.5845 23.02126, 72.58474 23.02112, 72.58512 23.02084, 72.58542 23.02055, 72.58613 23.01988, 72.58622 23.01977, 72.58622 23.01977, 72.58649 23.01954, 72.58665 23.01943, 72.58719 23.01919, 72.58857 23.0187, 72.58857 23.0187, 72.58902 23.01854, 72.5894 23.01832, 72.58957 23.01813, 72.58976 23.01768, 72.58998 23.0173, 72.59014 23.01713, 72.59046 23.01694, 72.59064 23.01691, 72.59084 23.01692, 72.59091 23.01696, 72.59099 23.01696, 72.59106 23.01693, 72.59111 23.01686, 72.59111 23.01678, 72.59107 23.01671, 72.59104 23.01669, 72.59103 23.01668, 72.59105 23.01653, 72.59102 23.01626, 72.59102 23.01626, 72.59096 23.01583, 72.59098 23.01544, 72.59116 23.01451, 72.59132 23.01392, 72.59136 23.01363, 72.59144 23.01347, 72.59146 23.01324, 72.59146 23.01324, 72.59159 23.01136, 72.59169 23.01047, 72.59171 23.01009, 72.5917 23.0093, 72.5917 23.0093, 72.59166 23.0083, 72.59162 23.00793, 72.59158 23.00772, 72.59117 23.00662, 72.59112 23.00649, 72.59112 23.00649, 72.59031 23.0045, 72.59003 23.00366, 72.59003 23.00366, 72.58975 23.00293, 72.58967 23.00269, 72.58962 23.00238, 72.58962 23.00238, 72.58955 23.00192, 72.58965 23.00182, 72.58971 23.00178, 72.58978 23.00175, 72.59052 23.00194, 72.59107 23.00208, 72.59155 23.00216, 72.59187 23.00224, 72.59187 23.00224, 72.59341 23.00261, 72.5941 23.00276, 72.5941 23.00276, 72.59534 23.00302, 72.59617 23.00323, 72.59619 23.00324, 72.59683 23.00341, 72.59787 23.00366, 72.59795 23.00368, 72.59799 23.00357, 72.59818 23.00314, 72.59822 23.00306, 72.59832 23.00299, 72.59837 23.00296, 72.59833 23.00288, 72.59819 23.00243, 72.59819 23.00238, 72.59802 23.00116, 72.59806 23.00111, 72.59804 23.00096, 72.59804 23.00096, 72.598 23.00065, 72.59789 23.00035, 72.59783 23.00008, 72.59777 22.99988, 72.59773 22.99973, 72.59773 22.99958, 72.59753 22.99898, 72.59747 22.99868, 72.59741 22.99839, 72.59745 22.99842, 72.59738 22.99843, 72.59727 22.99798, 72.59708 22.99726, 72.59699 22.99702, 72.59675 22.99656, 72.59668 22.99638, 72.59655 22.9961, 72.59656 22.99608, 72.59711 22.99596, 72.59764 22.99584, 72.59764 22.99584, 72.59925 22.99554, 72.59996 22.99544, 72.60081 22.99538, 72.60135 22.99535, 72.60135 22.99535, 72.60343 22.99526, 72.60416 22.99524, 72.60415 22.99515, 72.60413 22.99473, 72.60413 22.99473, 72.60405 22.99329, 72.60405 22.99329, 72.60401 22.99214, 72.60397 22.9909, 72.60396 22.99069, 72.60396 22.99069, 72.60396 22.99039, 72.60394 22.99035, 72.60392 22.99033, 72.60381 22.98911, 72.6038 22.98909, 72.60374 22.98867, 72.60367 22.98845, 72.60359 22.98834, 72.60341 22.9877, 72.60306 22.9869, 72.60291 22.98665, 72.60277 22.98627, 72.60269 22.98599, 72.60269 22.98599, 72.60238 22.98482, 72.6023 22.98445, 72.60226 22.98419, 72.60228 22.98412, 72.60232 22.98404, 72.60237 22.98396, 72.60237 22.98396, 72.60287 22.98328, 72.60294 22.98318, 72.60301 22.98302, 72.60308 22.98286, 72.60314 22.98265, 72.60316 22.98242, 72.60316 22.98242, 72.60316 22.98239, 72.6026 22.98164, 72.60254 22.98153, 72.60248 22.98141, 72.60246 22.98104, 72.60247 22.98096, 72.60248 22.9809, 72.60244 22.98085, 72.60234 22.9807, 72.60231 22.98061, 72.60231 22.98061, 72.6022 22.9804, 72.60203 22.98019, 72.60121 22.97939, 72.60089 22.97916, 72.60067 22.97901, 72.60057 22.97891, 72.60023 22.97826, 72.60015 22.97836, 72.60015 22.97836, 72.60053 22.97795, 72.60062 22.97793, 72.60071 22.97784, 72.60097 22.97753, 72.60125 22.97704, 72.60137 22.97681, 72.60166 22.97635, 72.60191 22.97598, 72.60214 22.97564, 72.60214 22.97564, 72.6029 22.97452, 72.60295 22.97442, 72.6035 22.97378, 72.60381 22.97339, 72.60403 22.97313, 72.60406 22.97314, 72.60406 22.97314, 72.60446 22.97337, 72.60459 22.97343, 72.60521 22.97368, 72.60516 22.97372, 72.60516 22.97372, 72.60521 22.97368, 72.60531 22.97372, 72.60554 22.97378, 72.60574 22.97386, 72.60653 22.97413, 72.60663 22.97417, 72.60663 22.97417, 72.60705 22.97433, 72.60729 22.97446, 72.60808 22.97479, 72.60808 22.97479, 72.60835 22.97491, 72.60872 22.9751, 72.60947 22.97537, 72.60947 22.97537, 72.60994 22.97553, 72.61026 22.97564, 72.61032 22.97556, 72.61078 22.97498, 72.61088 22.97496, 72.61088 22.97496, 72.61111 22.97475, 72.61142 22.97437, 72.61155 22.97418, 72.61183 22.97388, 72.61198 22.97372, 72.61216 22.97355, 72.6125 22.97326, 72.61304 22.97282, 72.61354 22.97237, 72.61367 22.97226, 72.61367 22.97226, 72.61445 22.97169, 72.61461 22.97161, 72.61461 22.97161, 72.615 22.97143, 72.6151 22.97143, 72.61535 22.97139, 72.61613 22.97128, 72.61619 22.97128, 72.61619 22.97125, 72.61765 22.97117, 72.61909 22.97114, 72.61982 22.97113)"
+  },
+  {
+    "stopName": "Tilakbag",
+    "stopCode": 2223,
+    "stationCode": 2941,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.580798",
+      "stopLatitude": "23.022018"
+    },
+    "RouteCodes": null,
+    "Sequence": 2,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Khamasa",
+    "stopCode": 2224,
+    "stationCode": 1879,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.583653",
+      "stopLatitude": "23.021513"
+    },
+    "RouteCodes": null,
+    "Sequence": 3,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Sardar Bhavan (Gol Limda)",
+    "stopCode": 2225,
+    "stationCode": 2601,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.58625",
+      "stopLatitude": "23.01979"
+    },
+    "RouteCodes": null,
+    "Sequence": 4,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Astodiya Chakla",
+    "stopCode": 2226,
+    "stationCode": 1195,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.588583",
+      "stopLatitude": "23.018735"
+    },
+    "RouteCodes": null,
+    "Sequence": 5,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Astodiya Darwaja",
+    "stopCode": 2227,
+    "stationCode": 1197,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.591058",
+      "stopLatitude": "23.016258"
+    },
+    "RouteCodes": null,
+    "Sequence": 6,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Majur Gam",
+    "stopCode": 2228,
+    "stationCode": 2016,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.591678",
+      "stopLatitude": "23.009298"
+    },
+    "RouteCodes": null,
+    "Sequence": 8,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Bhulabhai Park",
+    "stopCode": 2229,
+    "stationCode": 1302,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.59113",
+      "stopLatitude": "23.006485"
+    },
+    "RouteCodes": null,
+    "Sequence": 9,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Mangal Park",
+    "stopCode": 2230,
+    "stationCode": 2031,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.590043",
+      "stopLatitude": "23.003641"
+    },
+    "RouteCodes": null,
+    "Sequence": 10,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Amrakunj",
+    "stopCode": 2233,
+    "stationCode": 1120,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.594101",
+      "stopLatitude": "23.002756"
+    },
+    "RouteCodes": null,
+    "Sequence": 13,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Gordhanwadi",
+    "stopCode": 2234,
+    "stationCode": 1587,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.596161",
+      "stopLatitude": "23.003246"
+    },
+    "RouteCodes": null,
+    "Sequence": 14,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Shahalam Tollnaka",
+    "stopCode": 2866,
+    "stationCode": 2679,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.589681",
+      "stopLatitude": "23.002373"
+    },
+    "RouteCodes": null,
+    "Sequence": 11,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Bhairavnath",
+    "stopCode": 2870,
+    "stationCode": 1269,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.597648",
+      "stopLatitude": "22.995891"
+    },
+    "RouteCodes": null,
+    "Sequence": 18,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Vallabhwadi",
+    "stopCode": 2871,
+    "stationCode": 3006,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.601348",
+      "stopLatitude": "22.995343"
+    },
+    "RouteCodes": null,
+    "Sequence": 19,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Pushpakunj-Shukladada Chowk",
+    "stopCode": 3163,
+    "stationCode": 2400,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.598261",
+      "stopLatitude": "23.002376"
+    },
+    "RouteCodes": null,
+    "Sequence": 15,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Pranshankar Hall",
+    "stopCode": 3164,
+    "stationCode": 2372,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.597971",
+      "stopLatitude": "23.000969"
+    },
+    "RouteCodes": null,
+    "Sequence": 16,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Radhanpur Society",
+    "stopCode": 3165,
+    "stationCode": 2417,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.59744",
+      "stopLatitude": "22.998378"
+    },
+    "RouteCodes": null,
+    "Sequence": 17,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Jawahar Chowk (Maninagar)",
+    "stopCode": 3166,
+    "stationCode": 1768,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.604153",
+      "stopLatitude": "22.994733"
+    },
+    "RouteCodes": null,
+    "Sequence": 20,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Prakashnagar",
+    "stopCode": 3167,
+    "stationCode": 2368,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.604063",
+      "stopLatitude": "22.993286"
+    },
+    "RouteCodes": null,
+    "Sequence": 21,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Hirabhai Tower",
+    "stopCode": 3218,
+    "stationCode": 1688,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.603973",
+      "stopLatitude": "22.990693"
+    },
+    "RouteCodes": null,
+    "Sequence": 22,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Ishwarnagar",
+    "stopCode": 3219,
+    "stationCode": 1729,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.603833",
+      "stopLatitude": "22.989108"
+    },
+    "RouteCodes": null,
+    "Sequence": 23,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Vashisthanagar",
+    "stopCode": 3220,
+    "stationCode": 3018,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.60274",
+      "stopLatitude": "22.985971"
+    },
+    "RouteCodes": null,
+    "Sequence": 24,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Jaymala Society",
+    "stopCode": 3221,
+    "stationCode": 1777,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.602421",
+      "stopLatitude": "22.983991"
+    },
+    "RouteCodes": null,
+    "Sequence": 25,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Anandwadi",
+    "stopCode": 3222,
+    "stationCode": 1131,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.60321",
+      "stopLatitude": "22.982425"
+    },
+    "RouteCodes": null,
+    "Sequence": 26,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Ramwadi (Isanpur)",
+    "stopCode": 3223,
+    "stationCode": 2477,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.602373",
+      "stopLatitude": "22.98059"
+    },
+    "RouteCodes": null,
+    "Sequence": 27,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Isanpur",
+    "stopCode": 3224,
+    "stationCode": 1725,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.600183",
+      "stopLatitude": "22.978378"
+    },
+    "RouteCodes": null,
+    "Sequence": 28,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Smruti Mandir",
+    "stopCode": 3236,
+    "stationCode": 2809,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.610951",
+      "stopLatitude": "22.974998"
+    },
+    "RouteCodes": null,
+    "Sequence": 35,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Devbhumi Society (Smruti Mandir)",
+    "stopCode": 3237,
+    "stationCode": 1439,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.613706",
+      "stopLatitude": "22.9723"
+    },
+    "RouteCodes": null,
+    "Sequence": 36,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Vandevi Bunglows",
+    "stopCode": 3238,
+    "stationCode": 2707,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.614615",
+      "stopLatitude": "22.971628"
+    },
+    "RouteCodes": null,
+    "Sequence": 37,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Keshavnagar (Nigam)",
+    "stopCode": 3239,
+    "stationCode": 1875,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.616188",
+      "stopLatitude": "22.97129"
+    },
+    "RouteCodes": null,
+    "Sequence": 38,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Nigam Society",
+    "stopCode": 3240,
+    "stationCode": 2218,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.619805",
+      "stopLatitude": "22.97113"
+    },
+    "RouteCodes": null,
+    "Sequence": 39,
+    "routeFlow": null
+  },
+  {
+    "stopName": "S.T. Stand",
+    "stopCode": 3812,
+    "stationCode": 2526,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.591495",
+      "stopLatitude": "23.01324"
+    },
+    "RouteCodes": null,
+    "Sequence": 7,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Somnath Mahadev",
+    "stopCode": 3813,
+    "stationCode": 5090,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.591861",
+      "stopLatitude": "23.002261"
+    },
+    "RouteCodes": null,
+    "Sequence": 12,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Paras Nagar",
+    "stopCode": 4276,
+    "stationCode": 2305,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.604053",
+      "stopLatitude": "22.973153"
+    },
+    "RouteCodes": null,
+    "Sequence": 30,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Isanpur-Vatva Cross Road",
+    "stopCode": 4802,
+    "stationCode": 1726,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.602155",
+      "stopLatitude": "22.975646"
+    },
+    "RouteCodes": null,
+    "Sequence": 29,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Pushpvila",
+    "stopCode": 9242,
+    "stationCode": 6353,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.609454",
+      "stopLatitude": "22.97541"
+    },
+    "RouteCodes": null,
+    "Sequence": 34,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Jain Mandir",
+    "stopCode": 9244,
+    "stationCode": 6354,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.608065",
+      "stopLatitude": "22.974827"
+    },
+    "RouteCodes": null,
+    "Sequence": 33,
+    "routeFlow": null
+  },
+  {
+    "stopName": "ShaliGram (Sector-8)",
+    "stopCode": 9246,
+    "stationCode": 6355,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.606616",
+      "stopLatitude": "22.9742"
+    },
+    "RouteCodes": null,
+    "Sequence": 32,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Lakshmi Kunj Society",
+    "stopCode": 9248,
+    "stationCode": 6356,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.605152",
+      "stopLatitude": "22.973706"
+    },
+    "RouteCodes": null,
+    "Sequence": 31,
+    "routeFlow": null
+  }
+]

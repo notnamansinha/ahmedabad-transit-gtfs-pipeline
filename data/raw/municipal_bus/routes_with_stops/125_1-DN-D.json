@@ -1,0 +1,520 @@
+[
+  {
+    "stopName": "Naroda",
+    "stopCode": 1434,
+    "stationCode": 2170,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.65576",
+      "stopLatitude": "23.077182"
+    },
+    "RouteCodes": null,
+    "Sequence": 37,
+    "routeFlow": "LINESTRING (72.74753 23.17438, 72.74751 23.17458, 72.74736 23.1746, 72.74587 23.17483, 72.74587 23.17483, 72.74491 23.17503, 72.74433 23.17512, 72.74371 23.17529, 72.74291 23.17553, 72.74291 23.17553, 72.74247 23.17565, 72.74202 23.1757, 72.74133 23.17569, 72.73976 23.17564, 72.73891 23.17557, 72.73839 23.17547, 72.73744 23.17535, 72.73662 23.17528, 72.73649 23.17529, 72.73649 23.17529, 72.73629 23.1753, 72.73528 23.17553, 72.73494 23.17562, 72.73494 23.17562, 72.73331 23.17604, 72.73239 23.17621, 72.73144 23.17642, 72.73022 23.17671, 72.72897 23.17712, 72.72774 23.17762, 72.72774 23.17762, 72.72733 23.17776, 72.72642 23.17808, 72.72499 23.17863, 72.72456 23.17878, 72.72424 23.17884, 72.7239 23.17886, 72.7239 23.17886, 72.72277 23.17891, 72.7213 23.17893, 72.71933 23.17892, 72.71828 23.17891, 72.71828 23.17891, 72.7176 23.17895, 72.71714 23.17909, 72.71658 23.17935, 72.71632 23.17951, 72.71573 23.17997, 72.71537 23.18027, 72.71537 23.18027, 72.715 23.18056, 72.71482 23.18066, 72.71418 23.18082, 72.71306 23.18101, 72.71275 23.18102, 72.71239 23.18097, 72.71055 23.18075, 72.70996 23.18066, 72.70986 23.18066, 72.70981 23.18042, 72.70974 23.18008, 72.70966 23.18009, 72.70943 23.17889, 72.70903 23.17678, 72.70881 23.1755, 72.70841 23.17329, 72.70806 23.17124, 72.70772 23.16931, 72.70772 23.16931, 72.7075 23.16805, 72.70741 23.16767, 72.70713 23.16698, 72.70689 23.16656, 72.70604 23.16531, 72.70534 23.16431, 72.70453 23.16319, 72.70436 23.16293, 72.70436 23.16293, 72.70322 23.16128, 72.7028 23.16069, 72.7028 23.16069, 72.70154 23.15897, 72.70003 23.15691, 72.69965 23.15637, 72.69875 23.15514, 72.69807 23.15419, 72.69804 23.15416, 72.69543 23.15061, 72.69381 23.1484, 72.69362 23.14813, 72.69362 23.14813, 72.69301 23.14727, 72.69261 23.1467, 72.69234 23.14626, 72.69101 23.14412, 72.69068 23.14355, 72.69064 23.14349, 72.69064 23.14349, 72.68921 23.1412, 72.68914 23.14108, 72.68811 23.1394, 72.68769 23.13875, 72.68769 23.13875, 72.68729 23.13814, 72.68614 23.13624, 72.68461 23.13379, 72.68389 23.13247, 72.68389 23.13247, 72.68287 23.1304, 72.68187 23.12839, 72.6814 23.12753, 72.6813 23.12734, 72.6813 23.12734, 72.68092 23.1266, 72.68006 23.12484, 72.67995 23.1246, 72.67944 23.12348, 72.67881 23.12228, 72.67871 23.12209, 72.67801 23.1206, 72.67719 23.11896, 72.677 23.11852, 72.67661 23.11768, 72.67661 23.11768, 72.676 23.11637, 72.67436 23.11309, 72.67424 23.11284, 72.67424 23.11284, 72.67303 23.11041, 72.67303 23.11041, 72.67131 23.10685, 72.67128 23.10686, 72.67045 23.10515, 72.66982 23.10387, 72.66973 23.10369, 72.66972 23.10367, 72.66851 23.10117, 72.66851 23.10117, 72.66843 23.101, 72.66964 23.1004, 72.67078 23.09987, 72.67097 23.09976, 72.67113 23.09963, 72.67142 23.09937, 72.67142 23.09937, 72.67218 23.09866, 72.67294 23.09783, 72.67399 23.09665, 72.67429 23.09632, 72.67429 23.09632, 72.6753 23.09523, 72.67587 23.09454, 72.67592 23.09443, 72.67593 23.09432, 72.67589 23.09426, 72.67589 23.09426, 72.67465 23.09337, 72.67278 23.09194, 72.67278 23.09194, 72.67102 23.09055, 72.67102 23.09055, 72.66991 23.08974, 72.66975 23.08961, 72.66848 23.0886, 72.66848 23.0886, 72.66634 23.08695, 72.66634 23.08695, 72.66505 23.08597, 72.66358 23.08486, 72.66358 23.08486, 72.66072 23.08276, 72.65921 23.08163, 72.65896 23.08143, 72.65874 23.0816, 72.65874 23.0816, 72.65789 23.08215, 72.65784 23.08223, 72.6578 23.08226, 72.65744 23.08247, 72.65739 23.0824, 72.65736 23.08226, 72.65735 23.08221, 72.65735 23.08221, 72.65731 23.08196, 72.65729 23.08158, 72.65723 23.08061, 72.65717 23.0803, 72.65705 23.07986, 72.65698 23.07961, 72.65698 23.07961, 72.65654 23.07811, 72.65652 23.07803, 72.65645 23.07804, 72.65585 23.0781, 72.65545 23.07812, 72.65523 23.07805, 72.65504 23.07793, 72.65464 23.07762, 72.65501 23.07752, 72.65519 23.07743, 72.65532 23.0773, 72.65544 23.07707)"
+  },
+  {
+    "stopName": "Akhand jyot foundation",
+    "stopCode": 5652,
+    "stationCode": 1090,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.656983",
+      "stopLatitude": "23.079611"
+    },
+    "RouteCodes": null,
+    "Sequence": 36,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Dabhoda Gam",
+    "stopCode": 7234,
+    "stationCode": 1411,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.747485",
+      "stopLatitude": "23.174373"
+    },
+    "RouteCodes": null,
+    "Sequence": 1,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Ayodhyanagar",
+    "stopCode": 7235,
+    "stationCode": 1203,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.745873",
+      "stopLatitude": "23.174831"
+    },
+    "RouteCodes": null,
+    "Sequence": 2,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Nawa Dhara (Prantiya Fanta)",
+    "stopCode": 7236,
+    "stationCode": 2201,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.74291",
+      "stopLatitude": "23.175533"
+    },
+    "RouteCodes": null,
+    "Sequence": 3,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Tatva Beverage",
+    "stopCode": 7237,
+    "stationCode": 2919,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.736488",
+      "stopLatitude": "23.17528"
+    },
+    "RouteCodes": null,
+    "Sequence": 4,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Hudco Awas",
+    "stopCode": 7238,
+    "stationCode": 1696,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.734935",
+      "stopLatitude": "23.175615"
+    },
+    "RouteCodes": null,
+    "Sequence": 5,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Hiraba Farm",
+    "stopCode": 7239,
+    "stationCode": 1686,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.727743",
+      "stopLatitude": "23.177626"
+    },
+    "RouteCodes": null,
+    "Sequence": 6,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Otajina Chhapara",
+    "stopCode": 7240,
+    "stationCode": 2270,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.723901",
+      "stopLatitude": "23.17888"
+    },
+    "RouteCodes": null,
+    "Sequence": 7,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Ugtai Farm",
+    "stopCode": 7241,
+    "stationCode": 5095,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.718283",
+      "stopLatitude": "23.178911"
+    },
+    "RouteCodes": null,
+    "Sequence": 8,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Jogni Matanu Mandir",
+    "stopCode": 7242,
+    "stationCode": 1798,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.71537",
+      "stopLatitude": "23.180271"
+    },
+    "RouteCodes": null,
+    "Sequence": 9,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Dabhoda Highway Cross",
+    "stopCode": 7243,
+    "stationCode": 1412,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.709703",
+      "stopLatitude": "23.180083"
+    },
+    "RouteCodes": null,
+    "Sequence": 10,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Quarry Plant",
+    "stopCode": 7244,
+    "stationCode": 2402,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.707761",
+      "stopLatitude": "23.169302"
+    },
+    "RouteCodes": null,
+    "Sequence": 11,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Jethipura",
+    "stopCode": 7245,
+    "stationCode": 1783,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.704351",
+      "stopLatitude": "23.162936"
+    },
+    "RouteCodes": null,
+    "Sequence": 12,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Gift City Road",
+    "stopCode": 7246,
+    "stationCode": 1552,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.702806",
+      "stopLatitude": "23.160671"
+    },
+    "RouteCodes": null,
+    "Sequence": 13,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Prabhupura",
+    "stopCode": 7247,
+    "stationCode": 2357,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.697991",
+      "stopLatitude": "23.154195"
+    },
+    "RouteCodes": null,
+    "Sequence": 14,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Sadhanabhavan Brahmakumari",
+    "stopCode": 7248,
+    "stationCode": 2533,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.693585",
+      "stopLatitude": "23.148151"
+    },
+    "RouteCodes": null,
+    "Sequence": 15,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Valad Highway Cross",
+    "stopCode": 7249,
+    "stationCode": 2999,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.690633",
+      "stopLatitude": "23.143488"
+    },
+    "RouteCodes": null,
+    "Sequence": 16,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Adharshila School",
+    "stopCode": 7250,
+    "stationCode": 1072,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.687683",
+      "stopLatitude": "23.138753"
+    },
+    "RouteCodes": null,
+    "Sequence": 17,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Pancheshwar Mahadev",
+    "stopCode": 7251,
+    "stationCode": 2291,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.683863",
+      "stopLatitude": "23.132481"
+    },
+    "RouteCodes": null,
+    "Sequence": 18,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Limbadiya Gam",
+    "stopCode": 7252,
+    "stationCode": 1972,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.681341",
+      "stopLatitude": "23.127323"
+    },
+    "RouteCodes": null,
+    "Sequence": 19,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Wonder Cement",
+    "stopCode": 7253,
+    "stationCode": 3091,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.676613",
+      "stopLatitude": "23.117683"
+    },
+    "RouteCodes": null,
+    "Sequence": 20,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Ranasan",
+    "stopCode": 7254,
+    "stationCode": 2478,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.674226",
+      "stopLatitude": "23.11284"
+    },
+    "RouteCodes": null,
+    "Sequence": 21,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Ranasan Circle",
+    "stopCode": 7255,
+    "stationCode": 2479,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.673031",
+      "stopLatitude": "23.110406"
+    },
+    "RouteCodes": null,
+    "Sequence": 22,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Chiloda Octroinaka",
+    "stopCode": 7256,
+    "stationCode": 1384,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.671343",
+      "stopLatitude": "23.106835"
+    },
+    "RouteCodes": null,
+    "Sequence": 23,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Nana Chiloda(Mnu.Octroi)",
+    "stopCode": 7257,
+    "stationCode": 2758,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.669751",
+      "stopLatitude": "23.10368"
+    },
+    "RouteCodes": null,
+    "Sequence": 24,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Nana Chiloda",
+    "stopCode": 7258,
+    "stationCode": 2145,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.668548",
+      "stopLatitude": "23.101155"
+    },
+    "RouteCodes": null,
+    "Sequence": 25,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Shriniwas Anviro",
+    "stopCode": 7259,
+    "stationCode": 2760,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.671438",
+      "stopLatitude": "23.099393"
+    },
+    "RouteCodes": null,
+    "Sequence": 26,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Mecas",
+    "stopCode": 7260,
+    "stationCode": 2069,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.674281",
+      "stopLatitude": "23.096315"
+    },
+    "RouteCodes": null,
+    "Sequence": 27,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Naroda Industrial Township(MuthiyaGam)",
+    "stopCode": 7261,
+    "stationCode": 2173,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.67587",
+      "stopLatitude": "23.094285"
+    },
+    "RouteCodes": null,
+    "Sequence": 28,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Vimal (Reliance Textile)",
+    "stopCode": 7262,
+    "stationCode": 3048,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.67279",
+      "stopLatitude": "23.091925"
+    },
+    "RouteCodes": null,
+    "Sequence": 29,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Systronics",
+    "stopCode": 7263,
+    "stationCode": 2805,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.671049",
+      "stopLatitude": "23.090513"
+    },
+    "RouteCodes": null,
+    "Sequence": 30,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Central Workshop",
+    "stopCode": 7264,
+    "stationCode": 1339,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.668483",
+      "stopLatitude": "23.0886"
+    },
+    "RouteCodes": null,
+    "Sequence": 31,
+    "routeFlow": null
+  },
+  {
+    "stopName": "N.I.A. Hall",
+    "stopCode": 7265,
+    "stationCode": 2133,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.666345",
+      "stopLatitude": "23.086946"
+    },
+    "RouteCodes": null,
+    "Sequence": 32,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Igarsol",
+    "stopCode": 7266,
+    "stationCode": 1704,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.663608",
+      "stopLatitude": "23.084828"
+    },
+    "RouteCodes": null,
+    "Sequence": 33,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Telephone Exchange (Naroda)",
+    "stopCode": 7267,
+    "stationCode": 2928,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.65874",
+      "stopLatitude": "23.081605"
+    },
+    "RouteCodes": null,
+    "Sequence": 34,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Suttarnu Karkhanu",
+    "stopCode": 7268,
+    "stationCode": 2882,
+    "stopType": "MUNICIPAL_BUS",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.657333",
+      "stopLatitude": "23.082211"
+    },
+    "RouteCodes": null,
+    "Sequence": 35,
+    "routeFlow": null
+  }
+]

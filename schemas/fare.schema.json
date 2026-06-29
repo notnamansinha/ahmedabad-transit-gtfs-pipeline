@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ahmedabad-transit-data/schemas/fare.schema.json",
+  "title": "FareMatrixEntry",
+  "description": "One row of the agency's stop-to-stop fare matrix. Unidirectional: (from, to) and (to, from) are separate records (fares can differ on some Indian transit networks).",
+  "type": "object",
+  "required": [
+    "agency",
+    "from_stop_id",
+    "to_stop_id",
+    "fare_inr",
+    "service_class",
+    "sources",
+    "scraped_at"
+  ],
+  "properties": {
+    "agency": {"type": "string", "enum": ["brt", "municipal_bus", "metro"]},
+    "from_stop_id": {"type": "string"},
+    "to_stop_id": {"type": "string"},
+    "from_stop_name": {"type": "string"},
+    "to_stop_name": {"type": "string"},
+    "fare_inr": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 200,
+      "description": "Fare in Indian Rupees. Sanity max=200 (real Ahmedabad transit caps far below this)."
+    },
+    "service_class": {
+      "type": "string",
+      "enum": ["NORMAL", "AC", "LADIES_SPECIAL", "AIRPORT", "EXPRESS"],
+      "default": "NORMAL"
+    },
+    "journey_minutes": {
+      "type": "number",
+      "description": "Approximate journey time in minutes, if available (e.g. from Metro matrix)."
+    },
+    "sources": {
+      "type": "array",
+      "items": {"type": "string"},
+      "minItems": 1
+    },
+    "scraped_at": {"type": "string", "format": "date-time"}
+  },
+  "additionalProperties": false
+}

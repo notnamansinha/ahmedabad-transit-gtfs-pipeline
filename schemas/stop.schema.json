@@ -1,0 +1,79 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ahmedabad-transit-data/schemas/stop.schema.json",
+  "title": "TransitStop",
+  "description": "A single transit stop / station. One record per physical location per agency. A stop served by both MUNICIPAL_BUS and BRT produces TWO records (different stop_id, can be linked via interchange_group_id).",
+  "type": "object",
+  "required": [
+    "stop_id",
+    "agency",
+    "name",
+    "lat",
+    "lon",
+    "sources",
+    "scraped_at"
+  ],
+  "properties": {
+    "stop_id": {
+      "type": "string",
+      "description": "Canonical ID: '{agency}-{native_code}'. e.g. 'brt-685', 'municipal_bus-1051', 'metro-blue-01'. Stable across runs."
+    },
+    "agency": {
+      "type": "string",
+      "enum": ["brt", "municipal_bus", "metro"]
+    },
+    "name": {"type": "string", "minLength": 1},
+    "name_alt": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Alternate names from other sources (e.g. Transit Data, OSM) for fuzzy lookup."
+    },
+    "native_codes": {
+      "type": "object",
+      "description": "Source-specific IDs for traceability.",
+      "properties": {
+        "brt_stop_code": {"type": "integer"},
+        "brt_station_code": {"type": "integer"},
+        "municipal_bus_stop_code": {"type": "integer"},
+        "municipal_bus_station_code": {"type": "integer"},
+        "metro_station_code": {"type": "string"},
+        "osm_node_id": {"type": "integer"},
+        "transit-data_id": {"type": "integer"}
+      }
+    },
+    "lat": {"type": ["number", "null"], "minimum": 22.85, "maximum": 23.40},
+    "lon": {"type": ["number", "null"], "minimum": 72.40, "maximum": 72.85},
+    "coord_source": {
+      "type": ["string", "null"],
+      "enum": ["brt_api", "municipal_bus_api", "metro_official", "osm", "manual", null],
+      "description": "Which scraper produced the authoritative lat/lon. Null when coords are missing/invalid (record is still kept for name+route linkage)."
+    },
+    "coord_cross_check": {
+      "type": "object",
+      "description": "Distance (meters) between this coord and the same stop's coord in other sources. Populated by the verification pass.",
+      "additionalProperties": {"type": "number"}
+    },
+    "route_codes": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "All route_codes that serve this stop (denormalized for routing apps)."
+    },
+    "interchange_group_id": {
+      "type": ["string", "null"],
+      "description": "Stops within ~150m of each other across agencies share a group_id, enabling cross-agency transfers."
+    },
+    "stop_type": {
+      "type": "string",
+      "enum": ["BRT", "MUNICIPAL_BUS", "METRO"]
+    },
+    "sources": {
+      "type": "array",
+      "items": {"type": "string"},
+      "minItems": 1,
+      "description": "Which scrapers contributed to this record. ['brt_api', 'osm', ...]."
+    },
+    "scraped_at": {"type": "string", "format": "date-time"},
+    "notes": {"type": "string"}
+  },
+  "additionalProperties": false
+}

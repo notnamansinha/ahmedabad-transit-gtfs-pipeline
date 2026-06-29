@@ -1,0 +1,296 @@
+[
+  {
+    "stopName": "Geeta Gauri Cinema",
+    "stopCode": 101,
+    "stationCode": 51,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.638447",
+      "stopLatitude": "23.017353"
+    },
+    "RouteCodes": null,
+    "Sequence": 21,
+    "routeFlow": "LINESTRING (72.68586 23.08826, 72.68481 23.08759, 72.68461 23.08748, 72.68312 23.08671, 72.68269 23.0865, 72.68136 23.08586, 72.68071 23.08553, 72.680631 23.085491, 72.680418 23.08538, 72.680401 23.085373, 72.679947 23.085169, 72.67978 23.08509, 72.67911 23.08476, 72.67736 23.08389, 72.67532 23.08289, 72.67532 23.08289, 72.67323 23.08183, 72.67193 23.08121, 72.67217 23.08053, 72.67217 23.08053, 72.67292 23.07851, 72.67424 23.07511, 72.67462 23.07413, 72.67467 23.07394, 72.67484 23.07311, 72.67484 23.07311, 72.6754 23.07073, 72.67568 23.06955, 72.67534 23.06958, 72.67417 23.06964, 72.67324 23.06969, 72.67322 23.06968, 72.67319 23.06967, 72.67314 23.06968, 72.67312 23.06972, 72.67311 23.06976, 72.67312 23.06978, 72.67301 23.0699, 72.67269 23.07015, 72.67269 23.07015, 72.67113 23.07143, 72.67022 23.07211, 72.66859 23.07325, 72.66679 23.07451, 72.66559 23.07544, 72.66445 23.07639, 72.66412 23.07667, 72.66412 23.07667, 72.66388 23.07687, 72.66364 23.07711, 72.66343 23.07704, 72.66336 23.07696, 72.66323 23.0769, 72.66303 23.07681, 72.66247 23.07653, 72.66201 23.07627, 72.6604 23.07548, 72.65986 23.07525, 72.65951 23.07511, 72.65895 23.0749, 72.65852 23.07484, 72.65765 23.07477, 72.65668 23.07474, 72.65626 23.07474, 72.65618 23.07472, 72.65618 23.07472, 72.65612 23.07471, 72.65603 23.07469, 72.65602 23.0748, 72.65597 23.07539, 72.65588 23.07583, 72.65579 23.07605, 72.65572 23.07623, 72.65579 23.07625, 72.65587 23.07624, 72.65593 23.07624, 72.65596 23.07626, 72.65597 23.07635, 72.65604 23.07668, 72.65616 23.07717, 72.65599 23.07718, 72.6558 23.07716, 72.655809 23.077131, 72.65541 23.077087, 72.655752 23.076265, 72.65595 23.075856, 72.65613 23.07476, 72.65587 23.07468, 72.65464 23.0742, 72.65391 23.07389, 72.6525 23.07327, 72.65031 23.07238, 72.64922 23.07189, 72.64922 23.07189, 72.64871 23.07164, 72.64864 23.07162, 72.64826 23.07114, 72.64628 23.0688, 72.6451 23.06746, 72.64344 23.06545, 72.64332 23.0653, 72.64325 23.06512, 72.64315 23.06489, 72.64316 23.06486, 72.64316 23.06481, 72.64314 23.06477, 72.643098 23.064743, 72.643015 23.064667, 72.642966 23.064335, 72.642969 23.064192, 72.642971 23.0642, 72.642961 23.063889, 72.642961 23.063581, 72.643 23.063139, 72.643056 23.062698, 72.643094 23.062406, 72.643116 23.06212, 72.643117 23.061881, 72.643093 23.061237, 72.643047 23.060776, 72.643005 23.060311, 72.642942 23.059749, 72.642941 23.059749, 72.642788 23.05823, 72.642719 23.057449, 72.642676 23.057058, 72.642663 23.056857, 72.642656 23.056666, 72.642564 23.055778, 72.642519 23.05533, 72.642482 23.055069, 72.642469 23.054916, 72.642469 23.054909, 72.642424 23.054345, 72.64235 23.053804, 72.642173 23.052818, 72.641956 23.051901, 72.641893 23.051568, 72.641861 23.051426, 72.641845 23.051329, 72.641845 23.051333, 72.641803 23.051061, 72.641751 23.050785, 72.641704 23.050456, 72.641659 23.050185, 72.641604 23.049911, 72.641529 23.049369, 72.641372 23.048289, 72.641281 23.047725, 72.641178 23.046945, 72.641126 23.046413, 72.641084 23.046034, 72.641021 23.045772, 72.641001 23.045671, 72.640997 23.045595, 72.640997 23.045603, 72.640932 23.044945, 72.640886 23.044589, 72.640852 23.044241, 72.640714 23.042846, 72.640652 23.042143, 72.640624 23.041794, 72.640588 23.04144, 72.640557 23.041156, 72.640559 23.041161, 72.640459 23.040043, 72.640392 23.039486, 72.640403 23.039202, 72.640385 23.038963, 72.640327 23.038769, 72.640268 23.038277, 72.640259 23.03803, 72.640219 23.037779, 72.640132 23.037345, 72.640072 23.037075, 72.640041 23.036943, 72.640041 23.036948, 72.639993 23.036672, 72.63995 23.036398, 72.639825 23.035751, 72.639769 23.035425, 72.639702 23.035106, 72.639505 23.03414, 72.639412 23.033665, 72.639381 23.033419, 72.639354 23.033171, 72.639308 23.032831, 72.639268 23.032561, 72.639272 23.032565, 72.639241 23.032011, 72.639219 23.031728, 72.639188 23.031459, 72.639131 23.030807, 72.639103 23.03047, 72.639062 23.030133, 72.638978 23.029156, 72.638931 23.028668, 72.638882 23.028184, 72.638842 23.027835, 72.638817 23.02764, 72.638805 23.02752, 72.638802 23.027514, 72.638785 23.027193, 72.63878 23.026864, 72.638744 23.026588, 72.638718 23.026254, 72.638602 23.024899, 72.638546 23.024222, 72.638508 23.023885, 72.638484 23.023548, 72.63845 23.023235, 72.638431 23.022926, 72.638423 23.022618, 72.638422 23.022308, 72.638428 23.021848, 72.638428 23.021399, 72.638432 23.021111, 72.638429 23.020529, 72.63843 23.02052, 72.638446 23.020083, 72.638431 23.019754, 72.638433 23.019613, 72.638434 23.01919, 72.638437 23.018788, 72.638437 23.018061, 72.638437 23.017661, 72.638449 23.017364)"
+  },
+  {
+    "stopName": "Soni ni Chali",
+    "stopCode": 103,
+    "stationCode": 52,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.638428",
+      "stopLatitude": "23.020567"
+    },
+    "RouteCodes": null,
+    "Sequence": 20,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Viratnagar",
+    "stopCode": 105,
+    "stationCode": 53,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.638806",
+      "stopLatitude": "23.027507"
+    },
+    "RouteCodes": null,
+    "Sequence": 19,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Bapu Nagar Approach",
+    "stopCode": 107,
+    "stationCode": 54,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.639272",
+      "stopLatitude": "23.032554"
+    },
+    "RouteCodes": null,
+    "Sequence": 18,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Lilanagar",
+    "stopCode": 109,
+    "stationCode": 55,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.640046",
+      "stopLatitude": "23.036936"
+    },
+    "RouteCodes": null,
+    "Sequence": 17,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Thakkar Nagar Approach",
+    "stopCode": 111,
+    "stationCode": 56,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.64056",
+      "stopLatitude": "23.041144"
+    },
+    "RouteCodes": null,
+    "Sequence": 16,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Naroda S. T. Workshop",
+    "stopCode": 121,
+    "stationCode": 61,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.64297",
+      "stopLatitude": "23.064185"
+    },
+    "RouteCodes": null,
+    "Sequence": 11,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Bethak",
+    "stopCode": 271,
+    "stationCode": 139,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.649228",
+      "stopLatitude": "23.071868"
+    },
+    "RouteCodes": null,
+    "Sequence": 10,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Muktidham Naroda",
+    "stopCode": 359,
+    "stationCode": 177,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.664105",
+      "stopLatitude": "23.076654"
+    },
+    "RouteCodes": null,
+    "Sequence": 7,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Haridarshan Char Rasta",
+    "stopCode": 361,
+    "stationCode": 178,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.672662",
+      "stopLatitude": "23.070122"
+    },
+    "RouteCodes": null,
+    "Sequence": 6,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Swaminarayan Park",
+    "stopCode": 363,
+    "stationCode": 179,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.674884",
+      "stopLatitude": "23.073116"
+    },
+    "RouteCodes": null,
+    "Sequence": 5,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Naroda Gam",
+    "stopCode": 273,
+    "stationCode": 140,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.655812",
+      "stopLatitude": "23.077071"
+    },
+    "RouteCodes": null,
+    "Sequence": 9,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Sthapatya Eligance",
+    "stopCode": 365,
+    "stationCode": 180,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.675344",
+      "stopLatitude": "23.082844"
+    },
+    "RouteCodes": null,
+    "Sequence": 3,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Hanspura Gam",
+    "stopCode": 394,
+    "stationCode": 195,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.680452",
+      "stopLatitude": "23.08526"
+    },
+    "RouteCodes": null,
+    "Sequence": 2,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Hanspura Ring Road",
+    "stopCode": 367,
+    "stationCode": 181,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.685861",
+      "stopLatitude": "23.088254"
+    },
+    "RouteCodes": null,
+    "Sequence": 1,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Naroda Bazaar",
+    "stopCode": 390,
+    "stationCode": 193,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.656186",
+      "stopLatitude": "23.07468"
+    },
+    "RouteCodes": null,
+    "Sequence": 8,
+    "routeFlow": null
+  },
+  {
+    "stopName": "G.E.B (Naroda)",
+    "stopCode": 392,
+    "stationCode": 194,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.672253",
+      "stopLatitude": "23.080555"
+    },
+    "RouteCodes": null,
+    "Sequence": 4,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Hirawadi",
+    "stopCode": 113,
+    "stationCode": 57,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.640999",
+      "stopLatitude": "23.045583"
+    },
+    "RouteCodes": null,
+    "Sequence": 15,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Vijay Park",
+    "stopCode": 115,
+    "stationCode": 58,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.64185",
+      "stopLatitude": "23.05132"
+    },
+    "RouteCodes": null,
+    "Sequence": 14,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Krishna nagar",
+    "stopCode": 117,
+    "stationCode": 59,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.642473",
+      "stopLatitude": "23.054899"
+    },
+    "RouteCodes": null,
+    "Sequence": 13,
+    "routeFlow": null
+  },
+  {
+    "stopName": "Dhanush Dhari Mandir",
+    "stopCode": 119,
+    "stationCode": 60,
+    "stopType": "BRT",
+    "shortStopName": null,
+    "Position": {
+      "stopLongitude": "72.642947",
+      "stopLatitude": "23.059741"
+    },
+    "RouteCodes": null,
+    "Sequence": 12,
+    "routeFlow": null
+  }
+]

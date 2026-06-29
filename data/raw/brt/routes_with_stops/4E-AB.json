@@ -1,0 +1,6 @@
+{
+  "Result": "Failed",
+  "Message": "There was a problem handling your request. Please contact support",
+  "ExStackTrace": "   at DMS.Commutor.Amd.DataAccess.FareMatrixRepository.GetListOfstopsOnRoute(String routeCode)\r\n   at DMS.Commutor.Amd.Controllers.FareMatrixController.<>c__DisplayClass6_0.<StopsOnRoute>b__0()\r\n   at DMS.Commutor.Amd.Controllers.BaseController.GetHttpResponse(HttpRequestMessage request, Func`1 codeToExecute)",
+  "ExMessage": "Object reference not set to an instance of an object."
+}

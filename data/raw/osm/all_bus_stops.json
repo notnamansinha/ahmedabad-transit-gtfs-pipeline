@@ -1,0 +1,1764 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-17T13:37:38Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 429460556,
+      "lat": 23.0241439,
+      "lon": 72.5804883,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 611572689,
+      "lat": 23.0987428,
+      "lon": 72.5883112,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Acher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 611572692,
+      "lat": 23.0945534,
+      "lon": 72.5951643,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Gujarat Stadium (Motera)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 611572694,
+      "lat": 23.1104959,
+      "lon": 72.584599,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Shiv Shakti Nagar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 611572695,
+      "lat": 23.1151091,
+      "lon": 72.5832285,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Chandkheda Bus Depo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 611572696,
+      "lat": 23.1071309,
+      "lon": 72.5856397,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Janta Nagar (Parshwanath Nagar)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 611572697,
+      "lat": 23.1036376,
+      "lon": 72.5867663,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "ONGC Bus Depo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 611573336,
+      "lat": 23.0563204,
+      "lon": 72.5884185,
+      "tags": {
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Police Stadium",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 611573340,
+      "lat": 23.0655502,
+      "lon": 72.5837193,
+      "tags": {
+        "highway": "bus_stop",
+        "layer": "1",
+        "name": "Subhash Bridge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 611573343,
+      "lat": 23.0684819,
+      "lon": 72.5808869,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "RTO Circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 611573366,
+      "lat": 23.0527171,
+      "lon": 72.5904999,
+      "tags": {
+        "bench": "no",
+        "highway": "bus_stop",
+        "layer": "1",
+        "name": "Shahibaug Underbridge",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 631801190,
+      "lat": 23.0119174,
+      "lon": 72.5689346,
+      "tags": {
+        "highway": "bus_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 762994075,
+      "lat": 23.2162767,
+      "lon": 72.6426563,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Pathikashram"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1782729611,
+      "lat": 23.0268403,
+      "lon": 72.5806381,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1952514121,
+      "lat": 23.0682646,
+      "lon": 72.5624497,
+      "tags": {
+        "highway": "bus_stop",
+        "local_ref": "BUS TERMINUS",
+        "name": "Nava-Vadaj"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2211705413,
+      "lat": 23.0844751,
+      "lon": 72.5661042,
+      "tags": {
+        "designation": "MUNICIPAL_BUS Bus Stop",
+        "highway": "bus_stop",
+        "local_ref": "GST Crossing",
+        "name": "GST Crossing 1 (MUNICIPAL_BUS)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265925488,
+      "lat": 23.0397128,
+      "lon": 72.5386288,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "GMDC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265925489,
+      "lat": 23.0230285,
+      "lon": 72.53633,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Bimanagar / Jhansi Ki Rani"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265925490,
+      "lat": 23.0225299,
+      "lon": 72.5416944,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Nehru Nagar",
+        "operator": "City BRT_System Limited",
+        "shelter": "yes",
+        "source": "http://www.ahmedabadbrt.com/web/index.html",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265925491,
+      "lat": 23.0346324,
+      "lon": 72.5360081,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "IIM",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265925492,
+      "lat": 23.0242856,
+      "lon": 72.5312229,
+      "tags": {
+        "highway": "bus_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265925493,
+      "lat": 23.0297528,
+      "lon": 72.532414,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Himmatlal Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265926056,
+      "lat": 23.0183103,
+      "lon": 72.5440487,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Manek Baug",
+        "operator": "City BRT_System Ltd.",
+        "shelter": "yes",
+        "source": "http://www.ahmedabadbrt.com/web/index.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265953631,
+      "lat": 23.003723,
+      "lon": 72.5538743,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Anjali Cross Road"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265953635,
+      "lat": 22.9999238,
+      "lon": 72.6006692,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Rambaug",
+        "operator": "City BRT"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265953636,
+      "lat": 23.0013898,
+      "lon": 72.5870103,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Amarkunj /Swaminarayan College"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265953637,
+      "lat": 22.995457,
+      "lon": 72.5990646,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Bhairavnath",
+        "operator": "City BRT"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265953638,
+      "lat": 22.9948853,
+      "lon": 72.6117044,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Swaminarayan Mandir",
+        "operator": "City BRT"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265953639,
+      "lat": 22.9998665,
+      "lon": 72.5829655,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Shah Alam"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265953642,
+      "lat": 22.9951368,
+      "lon": 72.6050988,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Jawahar Chowk",
+        "operator": "City BRT",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265953643,
+      "lat": 22.9972369,
+      "lon": 72.6064312,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Maninagar",
+        "operator": "City BRT"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265953644,
+      "lat": 22.9955236,
+      "lon": 72.570209,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "National Cloth Factory"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265953647,
+      "lat": 22.9990894,
+      "lon": 72.5932198,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Gokulnath Chowk /Meera Cinema Char Rasta",
+        "operator": "City BRT"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265953648,
+      "lat": 23.0031799,
+      "lon": 72.5990158,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Kankaria Lake",
+        "operator": "City BRT",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265953649,
+      "lat": 22.9978049,
+      "lon": 72.6113755,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Maninagar Railway Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265953650,
+      "lat": 23.0024169,
+      "lon": 72.5928227,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Kankaria Telephone Exchange",
+        "name:ko": "\uc6b0\ub2e4\uc774\ud478\ub974 \uc0ac\uc124\uc815\ub958\uc7a5",
+        "operator": "City BRT"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265953651,
+      "lat": 23.0082114,
+      "lon": 72.5492824,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Dharnidhar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265953652,
+      "lat": 22.9997529,
+      "lon": 72.5580988,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Chandranagar BRT"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2265953653,
+      "lat": 22.9964913,
+      "lon": 72.5774026,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Dani Limda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2288824667,
+      "lat": 23.0660707,
+      "lon": 72.5321646,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "MUNICIPAL_BUS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2288824668,
+      "lat": 23.0631171,
+      "lon": 72.5255748,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Gulab Tower"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3231323519,
+      "lat": 23.0813883,
+      "lon": 72.6167476,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Airport Circle bus stop",
+        "operator": "MUNICIPAL_BUS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683243,
+      "lat": 22.9913719,
+      "lon": 72.6317562,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683465,
+      "lat": 23.0117408,
+      "lon": 72.562166,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683481,
+      "lat": 23.0197224,
+      "lon": 72.5860957,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "kerb": "raised",
+        "kerb:approach_aid": "yes",
+        "lit": "yes",
+        "operator": "BRT",
+        "passenger_information_display": "yes",
+        "passenger_information_display:speech_output": "no",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683587,
+      "lat": 23.0282432,
+      "lon": 72.5814362,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683590,
+      "lat": 23.0326462,
+      "lon": 72.5701007,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683591,
+      "lat": 23.0338698,
+      "lon": 72.5695244,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683598,
+      "lat": 23.034511,
+      "lon": 72.5692593,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683627,
+      "lat": 23.0423375,
+      "lon": 72.5695809,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683628,
+      "lat": 23.0433539,
+      "lon": 72.5697209,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683629,
+      "lat": 23.0519878,
+      "lon": 72.5902552,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683638,
+      "lat": 23.0555329,
+      "lon": 72.5719936,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683639,
+      "lat": 23.0560223,
+      "lon": 72.5910561,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683642,
+      "lat": 23.0603256,
+      "lon": 72.5919869,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683643,
+      "lat": 23.0612354,
+      "lon": 72.580309,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683644,
+      "lat": 23.0621551,
+      "lon": 72.5952829,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683645,
+      "lat": 23.0645512,
+      "lon": 72.5996029,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683646,
+      "lat": 23.0719488,
+      "lon": 72.6038956,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683647,
+      "lat": 23.0788487,
+      "lon": 72.6100908,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306683648,
+      "lat": 23.0804623,
+      "lon": 72.6171044,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3316875855,
+      "lat": 23.0220727,
+      "lon": 72.579101,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3333960611,
+      "lat": 22.9739626,
+      "lon": 72.5953013,
+      "tags": {
+        "highway": "bus_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3333960612,
+      "lat": 22.9740487,
+      "lon": 72.5952484,
+      "tags": {
+        "highway": "bus_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3333960613,
+      "lat": 22.9761795,
+      "lon": 72.6023816,
+      "tags": {
+        "highway": "bus_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3333960614,
+      "lat": 22.9762426,
+      "lon": 72.6023401,
+      "tags": {
+        "highway": "bus_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3333960615,
+      "lat": 22.9784932,
+      "lon": 72.6101868,
+      "tags": {
+        "highway": "bus_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3333960616,
+      "lat": 22.9785615,
+      "lon": 72.610175,
+      "tags": {
+        "highway": "bus_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3355748461,
+      "lat": 23.0186671,
+      "lon": 72.5883471,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3393851425,
+      "lat": 23.0594578,
+      "lon": 72.6180264,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "MUNICIPAL_BUS",
+        "name": "Meghaninagar",
+        "public_transport": "platform",
+        "route_ref": "MUNICIPAL_BUS Bus No. 50, 17, 28, 31, 33/1, 38, 70/1, 90"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3415672552,
+      "lat": 23.0397496,
+      "lon": 72.5385489,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "GMDC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3415672553,
+      "lat": 23.0455534,
+      "lon": 72.5424176,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Memnagar",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3415672554,
+      "lat": 23.0455543,
+      "lon": 72.5424739,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Memnagar",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3942904058,
+      "lat": 23.2023997,
+      "lon": 72.6368624,
+      "tags": {
+        "highway": "bus_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4210649810,
+      "lat": 23.0676729,
+      "lon": 72.5756845,
+      "tags": {
+        "bench": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "Bhavsar Hostel",
+        "name:en": "Ranip BRT",
+        "operator": "City BRT",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297344191,
+      "lat": 23.3799514,
+      "lon": 72.4067299,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Nandasan",
+        "operator": "GoG"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297344192,
+      "lat": 23.3276443,
+      "lon": 72.4277433,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Rajpur",
+        "operator": "gog"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4310278189,
+      "lat": 23.2393155,
+      "lon": 72.4913818,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Kalol -Ambica bus stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4376679089,
+      "lat": 23.0530366,
+      "lon": 72.5258779,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bus stop Riverside School",
+        "name:en": "Bus stop Riverside School",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4481510492,
+      "lat": 23.0847663,
+      "lon": 72.6800838,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Hanspura Bus stop",
+        "name:en": "Hanspura Bus stop",
+        "name:hi": "\u0939\u0938\u092a\u0941\u0930\u093e \u092c\u0938 \u0938\u094d\u091f\u0949\u092a"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4485407989,
+      "lat": 23.0315615,
+      "lon": 72.5085005,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Iscon ST bus stop",
+        "name:en": "Iscon ST bus stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4585304001,
+      "lat": 23.0847978,
+      "lon": 72.5512141,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Chandlodiya",
+        "name:en": "Chandlodiya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4585304002,
+      "lat": 23.0670122,
+      "lon": 72.5620316,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "JUNA VADAJ",
+        "name:en": "JUNA VADAJ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4588982754,
+      "lat": 23.025739,
+      "lon": 72.5252397,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Pvt travels Sahjanand Travels",
+        "operator": "pvt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4588990189,
+      "lat": 23.02562,
+      "lon": 72.525333,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Shree Sahjanand Travels",
+        "name:en": "Shree Sahjanand Travels"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4590687293,
+      "lat": 23.0060914,
+      "lon": 72.5310458,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Kadambari Society"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4702938189,
+      "lat": 23.0655907,
+      "lon": 72.643304,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bus to Udaipur",
+        "name:en": "Bus to Udaipur",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4722679579,
+      "lat": 23.1637172,
+      "lon": 72.8104975,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Kapdvanj Bust stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4786845394,
+      "lat": 23.1639887,
+      "lon": 72.8099858,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Gandhinagar Busstop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4792997116,
+      "lat": 23.1590739,
+      "lon": 72.802847,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Dehgam College"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4792997117,
+      "lat": 23.1490267,
+      "lon": 72.7871937,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Vadodara Patiya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4794246527,
+      "lat": 23.081039,
+      "lon": 72.5771961,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Ranip Bus stop",
+        "name:en": "Ranip Bus stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5327118488,
+      "lat": 23.0243207,
+      "lon": 72.531215,
+      "tags": {
+        "highway": "bus_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5327118489,
+      "lat": 23.0243186,
+      "lon": 72.5313857,
+      "tags": {
+        "highway": "bus_stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5327118490,
+      "lat": 23.0242849,
+      "lon": 72.5313961,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Shivranjani",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5445054647,
+      "lat": 22.9977864,
+      "lon": 72.6113064,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Maninagar Railway stop",
+        "operator": "City BRT",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5445054648,
+      "lat": 22.9979864,
+      "lon": 72.6104161,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Lala LAjpat marg",
+        "operator": "City BRT",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5445054650,
+      "lat": 22.9989051,
+      "lon": 72.6013622,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rambaug Post office",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5540117734,
+      "lat": 22.9978087,
+      "lon": 72.6113901,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Maninagr Railway Station",
+        "operator": "City BRT",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5540117735,
+      "lat": 22.9972438,
+      "lon": 72.606434,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Maninagar Cross Road",
+        "operator": "City BRT",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5540117736,
+      "lat": 22.9999248,
+      "lon": 72.6006742,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rambaug",
+        "operator": "City BRT",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5545191206,
+      "lat": 23.027686,
+      "lon": 72.5177376,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "ISRO , Ahmedabad",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5545191207,
+      "lat": 23.0275153,
+      "lon": 72.5126258,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ramdev Nagar",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5545191837,
+      "lat": 23.0274858,
+      "lon": 72.5049454,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "ISKCON Mandir",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5545191838,
+      "lat": 23.0277628,
+      "lon": 72.5009162,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Antariksh Colony",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5711617727,
+      "lat": 23.0320762,
+      "lon": 72.4596133,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Little Wings BRT stop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8157583232,
+      "lat": 23.0340068,
+      "lon": 72.4640698,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Bopal gam"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9316233960,
+      "lat": 23.1891887,
+      "lon": 72.5754247,
+      "tags": {
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9316233961,
+      "lat": 23.1889686,
+      "lon": 72.5754864,
+      "tags": {
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9316233962,
+      "lat": 23.1775522,
+      "lon": 72.5725601,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9316233963,
+      "lat": 23.1775485,
+      "lon": 72.5726245,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9316233965,
+      "lat": 23.1876989,
+      "lon": 72.5783658,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9316233966,
+      "lat": 23.1878234,
+      "lon": 72.5784771,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9316233967,
+      "lat": 23.1887375,
+      "lon": 72.5771387,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9316233968,
+      "lat": 23.1888053,
+      "lon": 72.5772755,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9316233969,
+      "lat": 23.1838828,
+      "lon": 72.5716764,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9316233970,
+      "lat": 23.1838199,
+      "lon": 72.5715597,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10177919684,
+      "lat": 23.0161011,
+      "lon": 72.4656001,
+      "tags": {
+        "description": "BRT Terminal",
+        "highway": "bus_stop",
+        "name": "South Bopal BRT Terminal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12912651330,
+      "lat": 23.0523056,
+      "lon": 72.6100622,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12912651331,
+      "lat": 23.0521516,
+      "lon": 72.6101214,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13081325157,
+      "lat": 23.0528796,
+      "lon": 72.5952154,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Mahapragnaji Bridge Approach",
+        "network": "Sarangpur circular route- 106",
+        "operator": "MUNICIPAL_BUS",
+        "public_transport": "platform",
+        "ref": "5",
+        "shelter": "no",
+        "trolleybus": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13116047286,
+      "lat": 23.0549257,
+      "lon": 72.4421495,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639910,
+      "lat": 23.0642483,
+      "lon": 72.6429675,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Naroda S.T. Workshop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639911,
+      "lat": 23.0598077,
+      "lon": 72.6429405,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Dhanush Dhari Mandir",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639912,
+      "lat": 23.0549301,
+      "lon": 72.6424602,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Nada Chiloda",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639913,
+      "lat": 23.0513889,
+      "lon": 72.6418538,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Vijay Park",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639914,
+      "lat": 23.0456662,
+      "lon": 72.6409989,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Hirawadi",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639915,
+      "lat": 23.0412083,
+      "lon": 72.640553,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Thakkar Nagar Approach",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639916,
+      "lat": 23.0369762,
+      "lon": 72.6400507,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Lilanagar",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639917,
+      "lat": 23.0326239,
+      "lon": 72.6392784,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bapunagar Approach",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639918,
+      "lat": 23.0275605,
+      "lon": 72.6388022,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Viratnagar",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639919,
+      "lat": 23.0205533,
+      "lon": 72.6384382,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Soni ni Chali",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639920,
+      "lat": 23.0174077,
+      "lon": 72.6384534,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Geeta Gauri Cinema",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639921,
+      "lat": 23.0136638,
+      "lon": 72.6384727,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rameshwar Park",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639922,
+      "lat": 23.0080678,
+      "lon": 72.6381291,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ram Rajya Nagar",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639923,
+      "lat": 23.0043839,
+      "lon": 72.6369046,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rabari Colony",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639924,
+      "lat": 23.0005139,
+      "lon": 72.6356334,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jogeshwari Society",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639925,
+      "lat": 22.9961731,
+      "lon": 72.6342048,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Purvdeep Society",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639926,
+      "lat": 22.9913284,
+      "lon": 72.6317678,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "CTM Cross Road",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639927,
+      "lat": 22.9873084,
+      "lon": 72.6276786,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Express Highway Junction",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639928,
+      "lat": 22.983866,
+      "lon": 72.6239988,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jashodanagar Char Rasta",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639929,
+      "lat": 22.9785228,
+      "lon": 72.6101796,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ghodasar",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639930,
+      "lat": 22.976216,
+      "lon": 72.6023849,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Isanpur",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639931,
+      "lat": 22.9740123,
+      "lon": 72.5953065,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Mukesh Industries",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639932,
+      "lat": 22.9729765,
+      "lon": 72.5895984,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Narol",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639933,
+      "lat": 22.9768712,
+      "lon": 72.5867831,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kashiram Textiles",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639934,
+      "lat": 22.9821643,
+      "lon": 72.5857084,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Chandola Octroi Naka",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639935,
+      "lat": 22.9864945,
+      "lon": 72.5826202,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Chandola Lake",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639936,
+      "lat": 22.9915528,
+      "lon": 72.5816699,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Chhipa Society",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13324639937,
+      "lat": 22.9961364,
+      "lon": 72.5791374,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Danilimda Road",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13582340756,
+      "lat": 23.1091079,
+      "lon": 72.5909683,
+      "tags": {
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Sakar School Bus Stop",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13582340757,
+      "lat": 23.1092205,
+      "lon": 72.5910153,
+      "tags": {
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Sakar School Bus Stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13582340758,
+      "lat": 23.1093569,
+      "lon": 72.5927065,
+      "tags": {
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Swagat Bungalows Bus Stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13582340759,
+      "lat": 23.1091859,
+      "lon": 72.5929077,
+      "tags": {
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Swagat Bungalows Bus Stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13831008601,
+      "lat": 23.0651818,
+      "lon": 72.52929,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Sola bridge BRT"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13831023302,
+      "lat": 23.0830981,
+      "lon": 72.4951871,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Bhadaj circle BRT"
+      }
+    }
+  ]
+}

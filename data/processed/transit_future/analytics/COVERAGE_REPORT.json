@@ -1,0 +1,74 @@
+{
+  "generated_at": "2026-05-18T14:29:08+00:00",
+  "city": "Ahmedabad",
+  "stops": {
+    "total": 5411,
+    "by_agency": {
+      "municipal_bus": 4774,
+      "brt": 584,
+      "metro": 53
+    },
+    "with_coords_by_agency": {
+      "municipal_bus": 4575,
+      "brt": 583,
+      "metro": 53
+    },
+    "interchange_groups": 607,
+    "stops_in_interchange_groups": 1833
+  },
+  "routes": {
+    "total": 881,
+    "by_agency": {
+      "municipal_bus": 772,
+      "brt": 109
+    },
+    "by_variant": {
+      "LADIES_SPECIAL": 4,
+      "NORMAL": 877
+    },
+    "with_geometry_by_agency": {
+      "municipal_bus": 772,
+      "brt": 106
+    },
+    "unique_customer_codes_by_agency": {
+      "municipal_bus": 218,
+      "brt": 57
+    }
+  },
+  "route_stops": {
+    "total": 37220,
+    "routes_with_full_sequence": 878
+  },
+  "fares": {
+    "total": 47535,
+    "by_agency": {
+      "municipal_bus": 10863,
+      "brt": 36672
+    },
+    "min_inr": 4.0,
+    "max_inr": 50.0,
+    "median_inr_approx": 20.0
+  },
+  "verification": {
+    "stop_coord_issues_count": 200,
+    "stop_dedupe_count": 2032,
+    "osm_coord_disagreements_count": 0,
+    "routes_missing_sequence_count": 0,
+    "fare_out_of_range_count": 153,
+    "fare_unresolved_count": 12936,
+    "orphan_stop_ref_count": 2
+  },
+  "output_files": [
+    "final\\checksums.csv",
+    "final\\csv\\fares.csv",
+    "final\\csv\\route_stops.csv",
+    "final\\csv\\routes.csv",
+    "final\\csv\\stops.csv",
+    "final\\geojson\\routes.geojson",
+    "final\\geojson\\stops.geojson",
+    "final\\json\\fares.json",
+    "final\\json\\routes.json",
+    "final\\json\\stops.json",
+    "final\\sqlite\\transit.db"
+  ]
+}

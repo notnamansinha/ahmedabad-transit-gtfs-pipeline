@@ -1,0 +1,29 @@
+# Local Claude Code workspace state
+.claude/
+
+# Scrape cache — large, regeneratable, machine-specific timestamps
+raw/_cache/
+
+# Per-host scrape logs (rotate; not source of truth)
+logs/*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Secrets and environment
+.env
+
+# Audit notes (Phase 0/1)
+audit/
+
+# IDEs and other tools
+.vscode/
+.idea/
+node_modules/
+.agents/

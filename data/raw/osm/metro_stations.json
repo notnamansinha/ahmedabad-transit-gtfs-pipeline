@@ -1,0 +1,1933 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-17T13:37:38Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 5622697516,
+      "lat": 23.005413,
+      "lon": 72.6355917,
+      "tags": {
+        "name": "Rabari Colony",
+        "name:gu": "\u0ab0\u0aac\u0abe\u0ab0\u0ac0 \u0a95\u0acb\u0ab2\u0acb\u0aa8\u0ac0",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "public_transport": "stop_position",
+        "public_transport:version": "2",
+        "railway": "stop",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5622701027,
+      "lat": 23.0106557,
+      "lon": 72.6182366,
+      "tags": {
+        "name": "Apparel Park",
+        "name:gu": "\u0a8f\u0aaa\u0ab0\u0ab2 \u0aaa\u0abe\u0ab0\u0acd\u0a95",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "public_transport": "stop_position",
+        "public_transport:version": "2",
+        "railway": "stop",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6432742906,
+      "lat": 23.0078462,
+      "lon": 72.6283735,
+      "tags": {
+        "name": "Amraiwadi",
+        "name:gu": "\u0a85\u0aae\u0ab0\u0ac0\u0ab5\u0abe\u0aa1\u0ac0",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "public_transport": "stop_position",
+        "public_transport:version": "2",
+        "railway": "stop",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6432742907,
+      "lat": 23.0034916,
+      "lon": 72.6476943,
+      "tags": {
+        "name": "Vastral",
+        "name:gu": "\u0ab5\u0ab8\u0acd\u0aa4\u0acd\u0ab0\u0abe\u0ab2",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "public_transport": "stop_position",
+        "public_transport:version": "2",
+        "railway": "stop",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6432742908,
+      "lat": 22.9998991,
+      "lon": 72.6585088,
+      "tags": {
+        "name": "Nirant Cross Roads",
+        "name:gu": "\u0aa8\u0abf\u0ab0\u0a82\u0aa4 \u0a95\u0acd\u0ab0\u0acb\u0ab8 \u0ab0\u0acb\u0aa1",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "public_transport": "stop_position",
+        "public_transport:version": "2",
+        "railway": "stop",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6432742909,
+      "lat": 22.9971313,
+      "lon": 72.6674512,
+      "tags": {
+        "name": "Vastral Gam",
+        "name:gu": "\u0ab5\u0ab8\u0acd\u0aa4\u0acd\u0ab0\u0abe\u0ab2 \u0a97\u0abe\u0aae",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "public_transport": "stop_position",
+        "public_transport:version": "2",
+        "railway": "stop",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7944287415,
+      "lat": 23.0246913,
+      "lon": 72.6031447,
+      "tags": {
+        "name": "Kalupur Railway Station",
+        "name:gu": "\u0a95\u0abe\u0ab2\u0ac1\u0aaa\u0ac1\u0ab0 \u0ab0\u0ac7\u0ab2\u0acd\u0ab5\u0ac7 \u0ab8\u0acd\u0a9f\u0ac7\u0ab6\u0aa8",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q114400466"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7944287418,
+      "lat": 23.0154573,
+      "lon": 72.6070016,
+      "tags": {
+        "name": "Kankaria East",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q114400460"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7944287421,
+      "lat": 23.0392105,
+      "lon": 72.5810327,
+      "tags": {
+        "name": "Shahpur Station",
+        "name:gu": "\u0ab6\u0abe\u0ab9\u0aaa\u0ac1\u0ab0",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7944287424,
+      "lat": 23.028794,
+      "lon": 72.5867752,
+      "tags": {
+        "name": "Gheekanta",
+        "name:gu": "\u0a98\u0ac0\u0a95\u0abe\u0a82\u0a9f\u0abe",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9655564621,
+      "lat": 23.0107028,
+      "lon": 72.6182378,
+      "tags": {
+        "name": "Apparel Park",
+        "name:gu": "\u0a8f\u0aaa\u0ab0\u0ab2 \u0aaa\u0abe\u0ab0\u0acd\u0a95",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "public_transport": "stop_position",
+        "public_transport:version": "2",
+        "railway": "stop",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9655564654,
+      "lat": 23.0078943,
+      "lon": 72.6284005,
+      "tags": {
+        "name": "Amraiwadi",
+        "name:gu": "\u0a85\u0aae\u0ab0\u0ac0\u0ab5\u0abe\u0aa1\u0ac0",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "public_transport": "stop_position",
+        "public_transport:version": "2",
+        "railway": "stop",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9655564655,
+      "lat": 23.0054549,
+      "lon": 72.635628,
+      "tags": {
+        "name": "Rabari Colony",
+        "name:gu": "\u0ab0\u0aac\u0abe\u0ab0\u0ac0 \u0a95\u0acb\u0ab2\u0acb\u0aa8\u0ac0",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "public_transport": "stop_position",
+        "public_transport:version": "2",
+        "railway": "stop",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9655564690,
+      "lat": 23.0035358,
+      "lon": 72.6477227,
+      "tags": {
+        "name": "Vastral",
+        "name:gu": "\u0ab5\u0ab8\u0acd\u0aa4\u0acd\u0ab0\u0abe\u0ab2",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "public_transport": "stop_position",
+        "public_transport:version": "2",
+        "railway": "stop",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9655564707,
+      "lat": 22.9999759,
+      "lon": 72.6585492,
+      "tags": {
+        "name": "Nirant Cross Roads",
+        "name:gu": "\u0aa8\u0abf\u0ab0\u0a82\u0aa4 \u0a95\u0acd\u0ab0\u0acb\u0ab8 \u0ab0\u0acb\u0aa1",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "public_transport": "stop_position",
+        "public_transport:version": "2",
+        "railway": "stop",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9655564728,
+      "lat": 22.9972131,
+      "lon": 72.6674915,
+      "tags": {
+        "name": "Vastral Gam",
+        "name:gu": "\u0ab5\u0ab8\u0acd\u0aa4\u0acd\u0ab0\u0abe\u0ab2 \u0a97\u0abe\u0aae",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "public_transport": "stop_position",
+        "public_transport:version": "2",
+        "railway": "stop",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196641344,
+      "lat": 23.1419718,
+      "lon": 72.6386122,
+      "tags": {
+        "name": "Juna Koba",
+        "name:gu": "\u0a9c\u0ac2\u0aa8\u0abe \u0a95\u0acb\u0aac\u0abe",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2024-09-17",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196641345,
+      "lat": 23.1322508,
+      "lon": 72.631042,
+      "tags": {
+        "name": "Koba Circle",
+        "name:gu": "\u0a95\u0acb\u0aac\u0abe \u0ab8\u0ab0\u0acd\u0a95\u0ab2",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2024-09-17",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196641346,
+      "lat": 23.1251457,
+      "lon": 72.6220979,
+      "tags": {
+        "name": "Narmada Canal",
+        "name:gu": "\u0aa8\u0ab0\u0acd\u0aae\u0aa6\u0abe \u0a95\u0ac7\u0aa8\u0abe\u0ab2",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2024-09-17",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196641347,
+      "lat": 23.1201271,
+      "lon": 72.6157987,
+      "tags": {
+        "name": "Tapovan Circle",
+        "name:gu": "\u0aa4\u0aaa\u0acb\u0ab5\u0aa8 \u0ab8\u0ab0\u0acd\u0a95\u0ab2",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2024-09-17",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196641348,
+      "lat": 23.1141999,
+      "lon": 72.6083864,
+      "tags": {
+        "name": "Vishwakarma College",
+        "name:gu": "\u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0a95\u0ab0\u0acd\u0aae\u0abe \u0a95\u0acb\u0ab2\u0ac7\u0a9c",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2024-09-17",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196641349,
+      "lat": 23.1031114,
+      "lon": 72.6021329,
+      "tags": {
+        "name": "Koteshwar Road",
+        "name:gu": "\u0a95\u0acb\u0a9f\u0ac7\u0ab6\u0acd\u0ab5\u0ab0 \u0ab0\u0acb\u0aa1",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2024-09-17",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196641350,
+      "lat": 23.1663954,
+      "lon": 72.6483252,
+      "tags": {
+        "name": "Raysan",
+        "name:gu": "\u0ab0\u0abe\u0aaf\u0ab8\u0aa8",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2024-09-17",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196641351,
+      "lat": 23.1790845,
+      "lon": 72.6472905,
+      "tags": {
+        "name": "Randesan",
+        "name:gu": "\u0ab0\u0abe\u0a82\u0aa6\u0ac7\u0ab8\u0aa3",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2024-09-17",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196641352,
+      "lat": 23.1859445,
+      "lon": 72.6433202,
+      "tags": {
+        "name": "Dholakuva Circle",
+        "name:gu": "\u0aa7\u0acb\u0ab3\u0abe\u0a95\u0ac1\u0ab5\u0abe \u0ab8\u0ab0\u0acd\u0a95\u0ab2",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2024-09-17",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196641353,
+      "lat": 23.1922574,
+      "lon": 72.6397126,
+      "tags": {
+        "name": "Infocity",
+        "name:gu": "\u0a87\u0aa8\u0acd\u0aab\u0acb\u0ab8\u0abf\u0a9f\u0ac0",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2024-09-17",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196641354,
+      "lat": 23.2049077,
+      "lon": 72.6431519,
+      "tags": {
+        "name": "Sector-1",
+        "name:gu": "\u0ab8\u0ac7\u0a95\u0acd\u0a9f\u0ab0-1",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2024-09-17",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196641355,
+      "lat": 23.1544724,
+      "lon": 72.6474689,
+      "tags": {
+        "name": "GNLU",
+        "name:gu": "\u0a9c\u0ac0 \u0a8f\u0aa8 \u0a8f\u0ab2 \u0aaf\u0ac1",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196641357,
+      "lat": 23.1533555,
+      "lon": 72.6855536,
+      "tags": {
+        "name": "GIFT City",
+        "name:gu": "\u0a97\u0abf\u0aab\u0acd\u0a9f \u0ab8\u0abf\u0a9f\u0ac0",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196641362,
+      "lat": 23.0751088,
+      "lon": 72.593291,
+      "tags": {
+        "name": "AEC",
+        "name:gu": "\u0a8f \u0a87 \u0ab8\u0ac0",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q114427225"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196641364,
+      "lat": 23.0856303,
+      "lon": 72.592206,
+      "tags": {
+        "name": "Sabarmati",
+        "name:gu": "\u0ab8\u0abe\u0aac\u0ab0\u0aae\u0aa4\u0ac0",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q114427233"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196641366,
+      "lat": 23.0967726,
+      "lon": 72.596692,
+      "tags": {
+        "name": "Motera Stadium",
+        "name:gu": "\u0aae\u0acb\u0a9f\u0ac7\u0ab0\u0abe \u0ab8\u0acd\u0a9f\u0ac7\u0aa1\u0abf\u0aaf\u0aae",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q114427229"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12406995811,
+      "lat": 23.049748,
+      "lon": 72.5160152,
+      "tags": {
+        "name": "Thaltej",
+        "name:gu": "\u0aa5\u0ab2\u0aa4\u0ac7\u0a9c",
+        "network": "City Metro",
+        "network:wikidata": "Q1895288",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q114400494"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12408894281,
+      "lat": 23.0502062,
+      "lon": 72.5070123,
+      "tags": {
+        "name": "Thaltej Gam",
+        "name:gu": "\u0aa5\u0ab2\u0aa4\u0ac7\u0a9c",
+        "network": "City Metro",
+        "network:wikidata": "Q1895288",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q131418464"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12696728310,
+      "lat": 23.1548645,
+      "lon": 72.6612117,
+      "tags": {
+        "name": "PDPU",
+        "name:gu": "\u0aaa\u0ac0 \u0aa1\u0ac0 \u0aaa\u0ac0 \u0aaf\u0ac1",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12858592937,
+      "lat": 23.2150688,
+      "lon": 72.6587511,
+      "tags": {
+        "name": "Sachivalaya",
+        "name:gu": "\u0ab8\u0a9a\u0abf\u0ab5\u0abe\u0ab2\u0aaf",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q130354856"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12858592938,
+      "lat": 23.2114841,
+      "lon": 72.6501927,
+      "tags": {
+        "name": "Sector-10A",
+        "name:gu": "\u0ab8\u0ac7\u0a95\u0acd\u0a9f\u0ab0-10\u0a8f",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q130354857"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13457569568,
+      "lat": 23.2236772,
+      "lon": 72.6641817,
+      "tags": {
+        "name": "Akshardham",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13457569573,
+      "lat": 23.228926,
+      "lon": 72.6594151,
+      "tags": {
+        "name": "Juna Sachivalaya",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13457569580,
+      "lat": 23.2338826,
+      "lon": 72.6501659,
+      "tags": {
+        "name": "Sector-16",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13457569587,
+      "lat": 23.2385075,
+      "lon": 72.6414782,
+      "tags": {
+        "name": "Sector-24",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13457569598,
+      "lat": 23.2339412,
+      "lon": 72.6338714,
+      "tags": {
+        "name": "Mahatma Mandir",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1101028012,
+      "center": {
+        "lat": 22.9977445,
+        "lon": 72.5371222
+      },
+      "nodes": [
+        10076616656,
+        10076616655,
+        10076616654,
+        7944287414,
+        10076616656
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "APMC",
+        "name:gu": "\u0a8f \u0aaa\u0ac0 \u0a8f\u0aae \u0ab8\u0ac0",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1101058044,
+      "center": {
+        "lat": 23.096661,
+        "lon": 72.5966107
+      },
+      "nodes": [
+        10076836150,
+        10076836149,
+        10076836148,
+        7944287406,
+        10076836150
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Motera Stadium",
+        "name:gu": "\u0aae\u0acb\u0a9f\u0ac7\u0ab0\u0abe \u0ab8\u0acd\u0a9f\u0ac7\u0aa1\u0abf\u0aaf\u0aae",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1101058046,
+      "center": {
+        "lat": 23.0855745,
+        "lon": 72.5922064
+      },
+      "nodes": [
+        10076836171,
+        10076836170,
+        10076836169,
+        7944287427,
+        10076836171
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Sabarmati",
+        "name:gu": "\u0ab8\u0abe\u0aac\u0ab0\u0aae\u0aa4\u0ac0",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1101058047,
+      "center": {
+        "lat": 23.0676741,
+        "lon": 72.5740838
+      },
+      "nodes": [
+        10076859827,
+        7944287425,
+        10076859825,
+        10076859824,
+        10076859827
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Ranip",
+        "name:gu": "\u0ab0\u0abe\u0aa3\u0ac0\u0aaa",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1101058050,
+      "center": {
+        "lat": 23.0135977,
+        "lon": 72.5492225
+      },
+      "nodes": [
+        10076859867,
+        10076859866,
+        10076859865,
+        10076859864,
+        10076859867
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Shreyas",
+        "name:gu": "\u0ab6\u0acd\u0ab0\u0ac7\u0aaf\u0ab8",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1101058051,
+      "center": {
+        "lat": 23.0097229,
+        "lon": 72.5367523
+      },
+      "nodes": [
+        10076859888,
+        10076859887,
+        10076859886,
+        10076859885,
+        10076859888
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Rajiv Nagar",
+        "name:gu": "\u0ab0\u0abe\u0a9c\u0ac0\u0ab5 \u0aa8\u0a97\u0ab0",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1101058052,
+      "center": {
+        "lat": 23.0054989,
+        "lon": 72.5334928
+      },
+      "nodes": [
+        10076859912,
+        10076859911,
+        10076859910,
+        10076859909,
+        10076859912
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Jivraj Park",
+        "name:gu": "\u0a9c\u0ac0\u0ab5\u0ab0\u0abe\u0a9c \u0aaa\u0abe\u0ab0\u0acd\u0a95",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1107146505,
+      "center": {
+        "lat": 23.0270955,
+        "lon": 72.5690238
+      },
+      "nodes": [
+        10130735272,
+        10130735270,
+        10130735263,
+        10130735260,
+        10130735259,
+        10130735262,
+        10130735261,
+        10130735264,
+        10130735267,
+        10130735266,
+        10130735265,
+        10130735268,
+        10130735269,
+        10130735271,
+        10130735272
+      ],
+      "tags": {
+        "addr:city": "Ahmedabad",
+        "addr:postcode": "380006",
+        "building": "train_station",
+        "information": "yes",
+        "internet_access": "no",
+        "layer": "3",
+        "name": "Gandhigram",
+        "name:gu": "\u0a97\u0abe\u0a82\u0aa7\u0ac0\u0a97\u0acd\u0ab0\u0abe\u0aae",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "ref": "GG",
+        "station": "subway",
+        "subway": "yes",
+        "tourism": "information",
+        "train": "yes",
+        "wheelchair": "limited",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198134736,
+      "center": {
+        "lat": 23.0398414,
+        "lon": 72.5616768
+      },
+      "nodes": [
+        11115111893,
+        11115111892,
+        11115111891,
+        7944287426,
+        11115111893
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "1",
+        "name": "Stadium",
+        "name:gu": "\u0ab8\u0acd\u0a9f\u0ac7\u0aa1\u0abf\u0aaf\u0aae",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198134737,
+      "center": {
+        "lat": 23.0407013,
+        "lon": 72.552973
+      },
+      "nodes": [
+        11115111896,
+        11115111895,
+        7944287404,
+        11115111894,
+        11115111896
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "1",
+        "name": "Commerce Sixth Road",
+        "name:gu": "\u0a95\u0acb\u0aae\u0ab0\u0acd\u0ab8 \u0a9b \u0ab0\u0ab8\u0acd\u0aa4\u0abe",
+        "network": "City Metro",
+        "network:wikidata": "Q1895288",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198134738,
+      "center": {
+        "lat": 23.0458829,
+        "lon": 72.5348734
+      },
+      "nodes": [
+        7944287411,
+        11115111899,
+        11115111898,
+        11115111897,
+        7944287411
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "1",
+        "name": "Gurukul Road",
+        "name:gu": "\u0a97\u0ac1\u0ab0\u0ac1\u0a95\u0ac1\u0ab2 \u0ab0\u0acb\u0aa1",
+        "network": "City Metro",
+        "network:wikidata": "Q1895288",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198134739,
+      "center": {
+        "lat": 23.0481764,
+        "lon": 72.5244209
+      },
+      "nodes": [
+        11115111902,
+        11115111901,
+        7944287408,
+        11115111900,
+        11115111902
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "1",
+        "name": "Doordarshan Kendra",
+        "name:gu": "\u0aa6\u0ac2\u0ab0\u0aa6\u0ab0\u0acd\u0ab6\u0aa8 \u0a95\u0ac7\u0aa8\u0acd\u0aa6\u0acd\u0ab0",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198134740,
+      "center": {
+        "lat": 23.0497359,
+        "lon": 72.516019
+      },
+      "nodes": [
+        11115121912,
+        12895234225,
+        11115121911,
+        10076565278,
+        11115121910,
+        11115121912
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "1",
+        "name": "Thaltej",
+        "name:gu": "\u0aa5\u0ab2\u0aa4\u0ac7\u0a9c",
+        "network": "City Metro",
+        "network:wikidata": "Q1895288",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198134743,
+      "center": {
+        "lat": 23.0750527,
+        "lon": 72.5932131
+      },
+      "nodes": [
+        11115122082,
+        11115122081,
+        7944287401,
+        11115122080,
+        11115122082
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "AEC",
+        "name:gu": "\u0a8f \u0a87 \u0ab8\u0ac0",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "wikidata": "Q114427225"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198134744,
+      "center": {
+        "lat": 23.0676671,
+        "lon": 72.5657588
+      },
+      "nodes": [
+        11115122085,
+        7944287416,
+        11115122084,
+        11115122083,
+        11115122085
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Vadaj",
+        "name:gu": "\u0ab5\u0abe\u0aa1\u0a9c",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198134745,
+      "center": {
+        "lat": 23.0561913,
+        "lon": 72.5623389
+      },
+      "nodes": [
+        11115122089,
+        7944287419,
+        11115122088,
+        11115122087,
+        11115122089
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Vijay Nagar",
+        "name:gu": "\u0ab5\u0abf\u0a9c\u0aaf \u0aa8\u0a97\u0ab0",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198134747,
+      "center": {
+        "lat": 23.0458371,
+        "lon": 72.564982
+      },
+      "nodes": [
+        11115122094,
+        11115122098,
+        11115122097,
+        11115122096,
+        11115122094
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Usmanpura",
+        "name:gu": "\u0a89\u0ab8\u0acd\u0aae\u0abe\u0aa8\u0aaa\u0ac1\u0ab0\u0abe",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198134751,
+      "center": {
+        "lat": 23.0448477,
+        "lon": 72.5435296
+      },
+      "nodes": [
+        7944287402,
+        11115122122,
+        11115122121,
+        12084974377,
+        11115122120,
+        7944287402
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "1",
+        "name": "Gujarat University Station",
+        "name:gu": "\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4 \u0aaf\u0ac1\u0aa8\u0abf\u0ab5\u0ab0\u0acd\u0ab8\u0abf\u0a9f\u0ac0 \u0ab8\u0acd\u0a9f\u0ac7\u0ab6\u0aa8",
+        "network": "City Metro",
+        "network:wikidata": "Q1895288",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198134752,
+      "center": {
+        "lat": 23.0372892,
+        "lon": 72.5672065
+      },
+      "nodes": [
+        7944287428,
+        11115122106,
+        11115122105,
+        11115122104,
+        11115122103,
+        11115122125,
+        11115122124,
+        11115122099,
+        11115122100,
+        11115122102,
+        11115122101,
+        11115122123,
+        7944287428
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Old High Court",
+        "name:gu": "\u0a9c\u0ac2\u0aa8\u0ac0 \u0ab9\u0abe\u0a87 \u0a95\u0acb\u0ab0\u0acd\u0a9f",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198140890,
+      "center": {
+        "lat": 22.9971397,
+        "lon": 72.667391
+      },
+      "nodes": [
+        11115167742,
+        11115167741,
+        9655528611,
+        11115167740,
+        11115167742
+      ],
+      "tags": {
+        "air_conditioning": "yes",
+        "building": "train_station",
+        "ele": "2",
+        "internet_access": "yes",
+        "layer": "1",
+        "name": "Vastral Gam",
+        "name:gu": "\u0ab5\u0ab8\u0acd\u0aa4\u0acd\u0ab0\u0abe\u0ab2 \u0a97\u0abe\u0aae",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198140891,
+      "center": {
+        "lat": 22.9997169,
+        "lon": 72.658889
+      },
+      "nodes": [
+        11115167745,
+        9655528610,
+        11115167744,
+        11115167743,
+        11115167745
+      ],
+      "tags": {
+        "air_conditioning": "yes",
+        "building": "train_station",
+        "ele": "2",
+        "internet_access": "yes",
+        "layer": "1",
+        "name": "Nirant Cross Roads",
+        "name:gu": "\u0aa8\u0abf\u0ab0\u0a82\u0aa4 \u0a95\u0acd\u0ab0\u0acb\u0ab8 \u0ab0\u0acb\u0aa1",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198140892,
+      "center": {
+        "lat": 23.0035988,
+        "lon": 72.6475942
+      },
+      "nodes": [
+        11115167748,
+        11115167747,
+        9655528609,
+        11115167746,
+        11115167748
+      ],
+      "tags": {
+        "addr:city": "Ahmedabad",
+        "addr:street": "Vastral",
+        "air_conditioning": "yes",
+        "building": "train_station",
+        "ele": "2",
+        "internet_access": "yes",
+        "layer": "1",
+        "name": "Vastral",
+        "name:gu": "\u0ab5\u0ab8\u0acd\u0aa4\u0acd\u0ab0\u0abe\u0ab2",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198140893,
+      "center": {
+        "lat": 23.0054703,
+        "lon": 72.6354063
+      },
+      "nodes": [
+        11115167751,
+        11115167750,
+        9655528608,
+        11115167749,
+        11115167751
+      ],
+      "tags": {
+        "air_conditioning": "yes",
+        "building": "train_station",
+        "ele": "2",
+        "internet_access": "yes",
+        "layer": "1",
+        "name": "Rabari Colony",
+        "name:gu": "\u0ab0\u0aac\u0abe\u0ab0\u0ac0 \u0a95\u0acb\u0ab2\u0acb\u0aa8\u0ac0",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198140894,
+      "center": {
+        "lat": 23.0076672,
+        "lon": 72.6287279
+      },
+      "nodes": [
+        11115167754,
+        9655528607,
+        11115167753,
+        11115167752,
+        11115167754
+      ],
+      "tags": {
+        "air_conditioning": "yes",
+        "building": "train_station",
+        "ele": "2",
+        "internet_access": "yes",
+        "layer": "1",
+        "name": "Amraiwadi",
+        "name:gu": "\u0a85\u0aae\u0ab0\u0ac0\u0ab5\u0abe\u0aa1\u0ac0",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2019-05-18",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198140895,
+      "center": {
+        "lat": 23.0106696,
+        "lon": 72.6180098
+      },
+      "nodes": [
+        11115167757,
+        11115167756,
+        11115167755,
+        9655528606,
+        11115167757
+      ],
+      "tags": {
+        "air_conditioning": "yes",
+        "building": "train_station",
+        "ele": "2",
+        "internet_access": "yes",
+        "layer": "1",
+        "name": "Apparel Park",
+        "name:gu": "\u0a8f\u0aaa\u0ab0\u0ab2 \u0aaa\u0abe\u0ab0\u0acd\u0a95",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1198140896,
+      "center": {
+        "lat": 23.0185053,
+        "lon": 72.5624076
+      },
+      "nodes": [
+        7944287403,
+        11115167760,
+        11287822639,
+        11115167759,
+        11115167758,
+        7944287403
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Paldi",
+        "name:gu": "\u0aaa\u0abe\u0ab2\u0aa1\u0ac0",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317807974,
+      "center": {
+        "lat": 23.2053071,
+        "lon": 72.6433933
+      },
+      "nodes": [
+        12196433502,
+        12196433501,
+        12196415800,
+        12196415799,
+        12196433502
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Sector-1",
+        "name:gu": "\u0ab8\u0ac7\u0a95\u0acd\u0a9f\u0ab0-1",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "start_date": "2024-09-17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317807975,
+      "center": {
+        "lat": 23.1920904,
+        "lon": 72.639724
+      },
+      "nodes": [
+        12196433506,
+        12196433505,
+        12196433504,
+        12196433503,
+        12196433506
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Infocity",
+        "name:gu": "\u0a87\u0aa8\u0acd\u0aab\u0acb\u0ab8\u0abf\u0a9f\u0ac0",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "start_date": "2024-09-17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317807976,
+      "center": {
+        "lat": 23.1858983,
+        "lon": 72.6433329
+      },
+      "nodes": [
+        12196433510,
+        12196433509,
+        12196433508,
+        12196433507,
+        12196433510
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Dholakuva Circle",
+        "name:gu": "\u0aa7\u0acb\u0ab3\u0abe\u0a95\u0ac1\u0ab5\u0abe \u0ab8\u0ab0\u0acd\u0a95\u0ab2",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "start_date": "2024-09-17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317807977,
+      "center": {
+        "lat": 23.1791128,
+        "lon": 72.6473026
+      },
+      "nodes": [
+        12196433514,
+        12196433513,
+        12196433512,
+        12196433511,
+        12196433514
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Randesan",
+        "name:gu": "\u0ab0\u0abe\u0a82\u0aa6\u0ac7\u0ab8\u0aa3",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "start_date": "2024-09-17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317807978,
+      "center": {
+        "lat": 23.1663775,
+        "lon": 72.6483285
+      },
+      "nodes": [
+        12196433517,
+        12196433516,
+        12192315268,
+        12196433515,
+        12196433517
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Raysan",
+        "name:gu": "\u0ab0\u0abe\u0aaf\u0ab8\u0aa8",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "start_date": "2024-09-17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317807979,
+      "center": {
+        "lat": 23.1543875,
+        "lon": 72.6474203
+      },
+      "nodes": [
+        12196433521,
+        12196433520,
+        12196433519,
+        12196433518,
+        12196433521
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "GNLU",
+        "name:gu": "\u0a9c\u0ac0 \u0a8f\u0aa8 \u0a8f\u0ab2 \u0aaf\u0ac1",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317807984,
+      "center": {
+        "lat": 23.1476098,
+        "lon": 72.6439055
+      },
+      "nodes": [
+        12196433542,
+        12196433541,
+        12196433540,
+        12196433539,
+        12196433542
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Koba Gam",
+        "name:gu": "\u0a95\u0acb\u0aac\u0abe \u0a97\u0abe\u0aae",
+        "network": "City Metro",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2024-09-17",
+        "station": "subway",
+        "subway": "yes",
+        "wikipedia": "en:List of City Metro stations"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317807985,
+      "center": {
+        "lat": 23.1419251,
+        "lon": 72.6385533
+      },
+      "nodes": [
+        12196433547,
+        12196433546,
+        12196433545,
+        12196433544,
+        12196433547
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Juna Koba",
+        "name:gu": "\u0a9c\u0ac2\u0aa8\u0abe \u0a95\u0acb\u0aac\u0abe",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "start_date": "2024-09-17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317807986,
+      "center": {
+        "lat": 23.1322575,
+        "lon": 72.6310538
+      },
+      "nodes": [
+        12196433581,
+        12196433580,
+        12196433579,
+        12196433578,
+        12196433581
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Koba Circle",
+        "name:gu": "\u0a95\u0acb\u0aac\u0abe \u0ab8\u0ab0\u0acd\u0a95\u0ab2",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "start_date": "2024-09-17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317807987,
+      "center": {
+        "lat": 23.1250895,
+        "lon": 72.6220455
+      },
+      "nodes": [
+        12196433585,
+        12196433584,
+        12196433583,
+        12196433582,
+        12196433585
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Narmada Canal",
+        "name:gu": "\u0aa8\u0ab0\u0acd\u0aae\u0aa6\u0abe \u0a95\u0ac7\u0aa8\u0abe\u0ab2",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "start_date": "2024-09-17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317807988,
+      "center": {
+        "lat": 23.1201413,
+        "lon": 72.6158256
+      },
+      "nodes": [
+        12196433589,
+        12196433588,
+        12196433587,
+        12196433586,
+        12196433589
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Tapovan Circle",
+        "name:gu": "\u0aa4\u0aaa\u0acb\u0ab5\u0aa8 \u0ab8\u0ab0\u0acd\u0a95\u0ab2",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "start_date": "2024-09-17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317807989,
+      "center": {
+        "lat": 23.1142049,
+        "lon": 72.6083771
+      },
+      "nodes": [
+        12196433593,
+        12196433592,
+        12196433591,
+        12196433590,
+        12196433593
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Vishwakarma College",
+        "name:gu": "\u0ab5\u0abf\u0ab6\u0acd\u0ab5\u0a95\u0ab0\u0acd\u0aae\u0abe \u0a95\u0acb\u0ab2\u0ac7\u0a9c",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "start_date": "2024-09-17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317807990,
+      "center": {
+        "lat": 23.1031355,
+        "lon": 72.6021315
+      },
+      "nodes": [
+        12196433597,
+        12196433596,
+        12196433595,
+        12196433594,
+        12196433597
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Koteshwar Road",
+        "name:gu": "\u0a95\u0acb\u0a9f\u0ac7\u0ab6\u0acd\u0ab5\u0ab0 \u0ab0\u0acb\u0aa1",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation",
+        "start_date": "2024-09-17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317809674,
+      "center": {
+        "lat": 23.1531797,
+        "lon": 72.6854544
+      },
+      "nodes": [
+        12196428662,
+        12196428661,
+        12196428660,
+        12192315271,
+        12196428662
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "GIFT City",
+        "name:gu": "\u0a97\u0abf\u0aab\u0acd\u0a9f \u0ab8\u0abf\u0a9f\u0ac0",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1317809675,
+      "center": {
+        "lat": 23.1549158,
+        "lon": 72.6611118
+      },
+      "nodes": [
+        12196428666,
+        12196428665,
+        12192315270,
+        12196428664,
+        12196428666
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "PDPU",
+        "name:gu": "\u0aaa\u0ac0 \u0aa1\u0ac0 \u0aaa\u0ac0 \u0aaf\u0ac1",
+        "operator": "City Metro Rail Corporation",
+        "operator:wikidata": "Q113158873",
+        "operator:wikipedia": "en:City Metro Rail Corporation"
+      }
+    }
+  ]
+}
