@@ -1,4 +1,4 @@
-# Ahmedabad Multimodal Transit Data
+# Ahmedabad Multimodal Transit Data [Last Updated on 30th June,2026]
 
 A verified dataset covering the public transit systems of Ahmedabad — Bus Rapid Transit (BRT), Municipal Bus Service, and the City Metro. Python ETL pipeline normalizing Ahmedabad transit APIs (BRTS, AMTS, Metro) into unified JSON/GTFS datasets for GraphHopper and OpenTripPlanner.
 
